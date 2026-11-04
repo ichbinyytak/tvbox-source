@@ -41,10 +41,17 @@
       "key": "旺旺影视",
       "name": "旺旺 • 影视 |1.7M|174ms",
       "type": 3,
-      "api": "csp_Wwys",
-      "ext": "https://vip.wwgz.cn:5200",
+      "api": "csp_HDmoli",
       "searchable": 1,
       "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": [
+          "https://www.hdmoli.com",
+          "https://www.hdmoli.pro"
+        ]
+      },
+      "timeout": 60,
       "changeable": 1
     },
     {

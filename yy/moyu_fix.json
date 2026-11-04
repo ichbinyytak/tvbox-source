@@ -21,6 +21,19 @@
       "changeable": 1
     },
     {
+      "key": "Rebo",
+      "name": "🍓┆热播┆APP |2.2M|805ms",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      },
+      "changeable": 1
+    },
+    {
       "key": "CZ",
       "name": "🏭┆厂长┆影视 |2.2M|1.9s",
       "type": 3,
