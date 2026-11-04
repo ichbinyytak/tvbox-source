@@ -15,7 +15,7 @@
     },
     {
       "key": "厂长影视",
-      "name": "厂长 • 影视 |2.2M|1.0s",
+      "name": "厂长 • 影视 |2.2M|1.3s",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -26,7 +26,7 @@
     },
     {
       "key": "热播影视",
-      "name": "热播 • APP |2.2M|2.6s",
+      "name": "热播 • APP |2.2M|2.3s",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -39,19 +39,10 @@
     },
     {
       "key": "旺旺影视",
-      "name": "旺旺 • 影视 |1.4M|474ms",
+      "name": "旺旺 • 影视 |1.7M|174ms",
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "本地",
-      "name": "本地 • 视频",
-      "type": 3,
-      "api": "csp_LocalFile",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -263,56 +254,6 @@
       "changeable": 1
     },
     {
-      "key": "搬运",
-      "name": "搬运 • 4K",
-      "type": 3,
-      "api": "csp_BanYunDao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "changeable": 1
-    },
-    {
-      "key": "爱盼",
-      "name": "爱盼 • 4K",
-      "type": 3,
-      "api": "csp_AiPan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "changeable": 1
-    },
-    {
-      "key": "即刻",
-      "name": "即刻 • 4K",
-      "type": 3,
-      "api": "csp_Jike",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 60,
-      "changeable": 1
-    },
-    {
-      "key": "双星",
-      "name": "双星 • 4K",
-      "type": 3,
-      "api": "csp_ShuangXing",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 60,
-      "changeable": 1
-    },
-    {
       "key": "飞娱影视",
       "name": "飞娱 • 影视",
       "type": 3,
@@ -367,50 +308,6 @@
       "changeable": 1
     },
     {
-      "key": "觅盘",
-      "name": "觅盘 • 搜索",
-      "type": 3,
-      "api": "csp_MiPan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "timeout": 60,
-      "changeable": 1
-    },
-    {
-      "key": "酷乐",
-      "name": "酷乐 • 搜索",
-      "type": 3,
-      "api": "csp_KuLe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "timeout": 60,
-      "changeable": 1
-    },
-    {
-      "key": "百酷",
-      "name": "百酷 • 搜索",
-      "type": 3,
-      "api": "csp_Baiku",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "timeout": 60,
-      "changeable": 1
-    },
-    {
-      "key": "趣盘",
-      "name": "趣盘 • 搜索",
-      "type": 3,
-      "api": "csp_QuPanSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "timeout": 60,
-      "changeable": 1
-    },
-    {
       "key": "呦呦DJ",
       "name": "呦呦 • DJ",
       "type": 3,
@@ -462,31 +359,12 @@
       }
     },
     {
-      "key": "茉莉",
-      "name": "茉莉 • 4K |169K|1.1s",
+      "key": "瓜子影视",
+      "name": "瓜子 • 影视 |464K|810ms",
       "type": 3,
-      "api": "csp_HDmoli",
+      "api": "csp_Gz360",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "site": [
-          "https://www.hdmoli.com",
-          "https://www.hdmoli.pro"
-        ]
-      },
-      "timeout": 60,
-      "changeable": 1
-    },
-    {
-      "key": "快映fox",
-      "name": "快映 • APP |47K|863ms",
-      "type": 3,
-      "api": "csp_AppFox",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/ky4kbgq7b273.json",
       "changeable": 1
     },
     {
@@ -502,15 +380,6 @@
         "buildNumber": "2002",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       },
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "瓜子影视",
-      "name": "瓜子 • 影视 |0",
-      "type": 3,
-      "api": "csp_Gz360",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -587,17 +456,10 @@
       "filterable": 1
     },
     {
-      "key": "配置中心",
-      "name": "配置 • 中心 |非影",
+      "key": "本地",
+      "name": "本地 • 视频 |非影",
       "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.618
-      }
+      "api": "csp_LocalFile"
     },
     {
       "key": "预告",
@@ -866,6 +728,18 @@
       }
     },
     {
+      "key": "戏曲多多",
+      "name": "戏曲 • 多多 |非影",
+      "type": 3,
+      "api": "csp_AppLY",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
       "key": "哔哩哔哩音乐",
       "name": "哔哩 • 音乐 |非影",
       "type": 3,
@@ -1044,6 +918,29 @@
         "type": "rect",
         "ratio": 1.618
       }
+    },
+    {
+      "key": "配置中心",
+      "name": "配置 • 中心 |盘",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.618
+      }
+    },
+    {
+      "key": "快映fox",
+      "name": "快映 • APP |盘",
+      "type": 3,
+      "api": "csp_AppFox",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/ky4kbgq7b273.json"
     },
     {
       "key": "蓝鸟",
@@ -1251,6 +1148,16 @@
       "timeout": 60
     },
     {
+      "key": "搬运",
+      "name": "搬运 • 4K |盘",
+      "type": 3,
+      "api": "csp_BanYunDao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 60
+    },
+    {
       "key": "指南",
       "name": "指南 • 4K |盘",
       "type": 3,
@@ -1281,6 +1188,32 @@
       "timeout": 60
     },
     {
+      "key": "茉莉",
+      "name": "茉莉 • 4K |盘",
+      "type": 3,
+      "api": "csp_HDmoli",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": [
+          "https://www.hdmoli.com",
+          "https://www.hdmoli.pro"
+        ]
+      },
+      "timeout": 60
+    },
+    {
+      "key": "爱盼",
+      "name": "爱盼 • 4K |盘",
+      "type": 3,
+      "api": "csp_AiPan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 60
+    },
+    {
       "key": "移动",
       "name": "移动 • 4K |盘",
       "type": 3,
@@ -1288,6 +1221,32 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "timeout": 60
+    },
+    {
+      "key": "即刻",
+      "name": "即刻 • 4K |盘",
+      "type": 3,
+      "api": "csp_Jike",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 60
+    },
+    {
+      "key": "双星",
+      "name": "双星 • 4K |盘",
+      "type": 3,
+      "api": "csp_ShuangXing",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "style": {
+        "type": "list"
+      },
       "timeout": 60
     },
     {
@@ -1408,6 +1367,16 @@
       }
     },
     {
+      "key": "觅盘",
+      "name": "觅盘 • 搜索 |盘",
+      "type": 3,
+      "api": "csp_MiPan",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "timeout": 60
+    },
+    {
       "key": "盘搜",
       "name": "盘搜 • 搜索 |盘",
       "type": 3,
@@ -1418,16 +1387,34 @@
       "timeout": 60
     },
     {
-      "key": "戏曲多多",
-      "name": "戏曲 • 多多 |盘",
+      "key": "酷乐",
+      "name": "酷乐 • 搜索 |盘",
       "type": 3,
-      "api": "csp_AppLY",
-      "searchable": 0,
+      "api": "csp_KuLe",
+      "searchable": 1,
       "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
+      "filterable": 0,
+      "timeout": 60
+    },
+    {
+      "key": "百酷",
+      "name": "百酷 • 搜索 |盘",
+      "type": 3,
+      "api": "csp_Baiku",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "timeout": 60
+    },
+    {
+      "key": "趣盘",
+      "name": "趣盘 • 搜索 |盘",
+      "type": 3,
+      "api": "csp_QuPanSo",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "timeout": 60
     },
     {
       "key": "push_agent",

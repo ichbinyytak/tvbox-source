@@ -48,40 +48,22 @@
       "changeable": 1
     },
     {
-      "key": "JianSou",
-      "name": "💖┃简搜┃4K💖",
-      "type": 3,
-      "api": "csp_JianSou",
+      "key": "feifan",
+      "name": "🍀┃非凡┃资源 |1.9M|634ms",
+      "type": 1,
+      "api": "http://ffzy5.tv/api.php/provide/vod",
       "searchable": 1,
-      "filterable": 0,
-      "ext": {
-        "site": "http://118.89.172.248:8000",
-        "type": 0,
-        "name": " 简搜"
-      },
       "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "ZhiZhenPanCms",
-      "name": "💖┃至臻┃4K💖",
-      "type": 3,
-      "api": "csp_PanCms",
-      "searchable": 1,
       "filterable": 1,
-      "ext": "{\"site\":[\"http://118.89.172.248:22776\"],\"name\":\"网盘CMS\"}",
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "KuaiYPanCms",
-      "name": "💖┃快映┃4K💖",
-      "type": 3,
-      "api": "csp_PanCms",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "{\"site\":[\"http://38.76.197.172:12521\"],\"name\":\"网盘CMS\"}",
-      "quickSearch": 1,
+      "categories": [
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "战争片",
+        "国产剧",
+        "大陆综艺"
+      ],
+      "hide": 1,
       "changeable": 1
     },
     {
@@ -179,27 +161,8 @@
       "changeable": 1
     },
     {
-      "key": "feifan",
-      "name": "🍀┃非凡┃资源 |440K|628ms",
-      "type": 1,
-      "api": "http://ffzy5.tv/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "韩国剧",
-        "欧美剧",
-        "台湾剧",
-        "战争片",
-        "国产剧",
-        "大陆综艺"
-      ],
-      "hide": 1,
-      "changeable": 1
-    },
-    {
       "key": "Gz360",
-      "name": "🍂┃瓜子┃秒播 |0",
+      "name": "🍂┃瓜子┃秒播 |464K|1.1s",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -217,20 +180,6 @@
       "ext": {
         "site": "https://api.ztcgi.com"
       }
-    },
-    {
-      "key": "配置中心",
-      "name": "⚙️┃配置┃中心⚙️ |非影",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "jar": "http://118.89.172.248:8025/jar/lubin.php"
     },
     {
       "key": "戏 曲",
@@ -303,6 +252,42 @@
       "ext": "https://z.qiqiv.cn/666/json/影视解说.json"
     },
     {
+      "key": "配置中心",
+      "name": "⚙️┃配置┃中心⚙️ |盘",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "jar": "http://118.89.172.248:8025/jar/lubin.php"
+    },
+    {
+      "key": "JianSou",
+      "name": "💖┃简搜┃4K💖 |盘",
+      "type": 3,
+      "api": "csp_JianSou",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": {
+        "site": "http://118.89.172.248:8000",
+        "type": 0,
+        "name": " 简搜"
+      }
+    },
+    {
+      "key": "ZhiZhenPanCms",
+      "name": "💖┃至臻┃4K💖 |盘",
+      "type": 3,
+      "api": "csp_PanCms",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "{\"site\":[\"http://118.89.172.248:22776\"],\"name\":\"网盘CMS\"}"
+    },
+    {
       "key": "MuouPanCms",
       "name": "💖┃木偶┃4K💖 |盘",
       "type": 3,
@@ -319,6 +304,15 @@
       "searchable": 1,
       "filterable": 1,
       "ext": "{\"site\":[\"https://tv.yydsys.top\",\"https://tv.yydsys.cc\",\"https://tv.214521.xyz\"],\"name\":\"网盘CMS\"}"
+    },
+    {
+      "key": "KuaiYPanCms",
+      "name": "💖┃快映┃4K💖 |盘",
+      "type": 3,
+      "api": "csp_PanCms",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "{\"site\":[\"http://38.76.197.172:12521\"],\"name\":\"网盘CMS\"}"
     },
     {
       "key": "HuBanYPanCms",

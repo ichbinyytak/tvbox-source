@@ -37,47 +37,56 @@ ctx.verify_mode = ssl.CERT_NONE
 # 1. 网盘扫码站规则库 (免测速，直接标 |盘)
 PAN_KEYWORDS = [
     "云盘", "网盘", "阿里", "夸克", "115", "四盘", "多盘", "盘搜", "易搜", 
-    "盘她", "盘他", "抠抠", "优汐", "闪电", "推送", "海绵", "玩偶", "木偶",
+    "盘她", "盘他", "抠抠", "优汐", "优熙", "闪电", "推送", "海绵", "玩偶", "木偶",
     "蜗牛", "光鸭", "123", "土豆", "立播", "至尊", "聚剧", "上头", "晃悠",
-    "媒体库", "蜡笔", "花卷", "观影", "七味", "盘库", "虎斑", "多多", "快影",
-    "剧透", "原盘", "盘迷", "逸动", "emby", "alist", "webdav", "爱盘", "九七", "卡卡",
-    "pansou", "duopan", "pansearch", "panhunt", "yiso", "yunpan"
+    "媒体库", "蜡笔", "花卷", "观影", "七味", "盘库", "虎斑", "快影", "快映",
+    "剧透", "原盘", "盘迷", "逸动", "移动", "异动", "无名", "双星", "天逸", "天翼",
+    "讯蕾", "卡卡", "爱盘", "爱盼", "九七", "米搜", "觅盘", "酷乐", "百酷", "趣盘",
+    "给力", "摆烂", "煮雪", "棠梨", "开饭", "歇会", "发呆", "随缘", "躺平", "赖床",
+    "板凳", "慢点", "知我", "等风", "流映", "嗑剧", "凝光", "素笺", "长泽", "云岫",
+    "搬运", "指南", "小丑", "八零", "即刻", "云集", "珈珈", "tiu6", "至臻", "简搜",
+    "星河", "扫码", "网盘类", "emby", "alist", "webdav", "pansou", "duopan",
+    "pansearch", "panhunt", "yiso", "yunpan", "配置", "市场", "自定义"
 ]
 PAN_APIS = [
     "mydrive", "wogg", "seedhub", "s_zps", "ypanso", "bpanso", "kkss", "uuss", 
     "push", "hmys", "woniu", "panweb", "fishcloud", "fishdrive", "tudou", "shangtou",
     "huangyou", "cloud", "alishare", "quark", "pansou", "duopan", "pansearch", "panhunt",
-    "tgyunpan", "huajuan", "guanying", "qwmkv", "pianku", "huban", "muou", "duoduo",
+    "tgyunpan", "huajuan", "guanying", "qwmkv", "pianku", "huban", "muou",
     "kuaiying", "labi", "shandian", "jutou", "libvio", "zhinan", "pan1me", "yidong",
-    "emby", "alist", "webdav", "soai", "haiyin", "pansoo", "aipanso", "kaka", "panguard"
+    "emby", "alist", "webdav", "soai", "haiyin", "pansoo", "aipanso", "kaka", "panguard",
+    "pancms", "jiansou", "yisou", "alips", "upyun", "fourkzn", "fishps", "misou",
+    "market", "panmarket", "nullname", "wexwo", "wexpan", "tyso", "baiduso", "haiyinso",
+    "97panso", "115share", "banyundao", "aipan", "jike", "shuangxing", "kkpan", "hdmoli", "wexdiy",
+    "config", "panconfig", "wexconfig", "wexokconfig", "xunleipan"
 ]
 PAN_EXT_KEYWORDS = [
     "cloud-drive", "token.json", "woggpan", "aliyun", "quark", "panweb", "123pan",
-    "webdav", "emby", "panhunt", "pansou", "pansearch", "commonconfig", "wexconfig"
+    "webdav", "emby", "panhunt", "pansou", "pansearch", "commonconfig", "wexconfig",
+    "wexokconfig", "muoua", "yydsys", "xhban", "hjzhencai", "sidhub", "4kzn", "4kxc"
 ]
 
 # 2. 高清磁力站规则库 (免测速，直接标 |磁力，梯队 3)
 MAGNET_KEYWORDS = [
-    "🧲", "磁力", "迅雷", "种子", "荐片", "torrent", "magnet"
+    "🧲", "磁力", "迅雷", "种子", "荐片", "torrent", "magnet", "p2p", "6v", "xb6v"
 ]
 MAGNET_APIS = [
     "sixv", "jianpian", "jpjguard", "jpianamns", "dygod", "dygang", 
-    "meijutt", "meijumi", "blsgod", "xunlei", "qnmp4", "btdx", "cili", "torrent", "magnet"
+    "meijutt", "meijumi", "blsgod", "xunlei", "qnmp4", "btdx", "cili", "torrent", "magnet", "xb6v"
 ]
 
 # 3. 垂直非影视规则库 (免测速，直接标 |非影)
 AUX_KEYWORDS = [
-    "片单", "预告", "音乐", "MV", "看球", "回放", "吃瓜", "急救", "课堂", 
-    "教育", "启蒙", "小说", "一直播", "广告", "短剧", "短漫", "漫短", "漫剧",
-    "哔哔", "Bili", "直播", "虎牙", "斗鱼", "听书", "儿歌", "跳舞", "戏曲",
-    "电台", "舞曲", "体育", "飞球", "球通", "wwe", "动漫", "次元", "宝宝",
-    "贝贝", "兔兔", "教学", "KTV", "好看", "星星", "小薇", "悦庭", "爱上",
-    "蜻蜓", "酷听", "易听", "小酷", "轮回", "八八", "咖啡", "合集", "小红",
-    "小马", "小龙", "小猫", "小喜"
+    "儿歌", "听书", "教学", "舞曲", "电台", "跳舞", "戏曲", "音乐", "体育", "看球", 
+    "球通", "飞球", "wwe", "动漫", "次元", "宝宝", "贝贝", "兔兔", "课堂", "教育",
+    "少儿", "小学", "初中", "高中", "短剧", "短漫", "漫短", "漫剧", "一直播", "直播",
+    "虎牙", "斗鱼", "bili", "哔哔", "mv", "ktv", "好看", "星星", "小薇", "悦庭",
+    "爱上", "蜻蜓", "酷听", "易听", "小酷", "轮回", "八八", "咖啡", "合集", "预告",
+    "吃瓜", "急救", "广告", "壁纸", "文件", "相声", "小品", "解说", "养生", "启蒙"
 ]
 AUX_APIS = [
-    "Bili", "Kanqiu", "LiveGz", "FirstAid", "Tingshu", "LiveAi", "ManJuAi",
-    "DuanJuAi", "AnimeAi", "Anime", "Book", "ChildrenAi", "MusicAi", "SportAi"
+    "bili", "kanqiu", "livegz", "firstaid", "tingshu", "liveai", "manjuai",
+    "duanjuai", "animeai", "anime", "book", "childrenai", "musicai", "sportai", "wallpaper", "local"
 ]
 
 # 4. 影视点播源服务节点探测库 (方案 B：真实服务节点握手与吞吐测速)
@@ -360,13 +369,14 @@ def classify_and_tag(site: dict) -> dict:
 
     original_name = name
 
-    # 1. 梯队 1：判定是否为首页排头兵 (豆豆/豆瓣/片单聚合推荐)
+    # 1. 梯队 1：判定是否为首页排头兵 (豆豆/豆瓣/片单聚合推荐/首页公告)
     is_head = (
         key in ["点我切源", "豆瓣", "Douban", "Tg豆瓣", "db"] or
-        any(k in name for k in ["片单", "豆豆", "肥猫宝贝", "切源", "Tg豆瓣"]) or
-        api in ["csp_DouDouGuard", "csp_Douban", "csp_PianDan", "csp_TgYunDouBanPan"]
+        key.lower().startswith("douban") or
+        any(k in name for k in ["片单", "豆豆", "肥猫宝贝", "切源", "Tg豆瓣", "更新日期", "免费分享"]) or
+        any(a in api for a in ["DouDou", "Douban", "PianDan", "TgYunDouBanPan"])
     )
-    if is_head:
+    if is_head and not any(k in name for k in ["网盘", "扫码", "盘类"]):
         site["indexs"] = 1
         site["changeable"] = 1
         site["quickSearch"] = 1
@@ -381,23 +391,49 @@ def classify_and_tag(site: dict) -> dict:
             "ttfb": 0
         }
 
-    # 2. 判定是否为网盘扫码类 (梯队 5)
     name_l = name.lower()
     key_l = key.lower()
     api_l = str(api).lower()
     ext_l = ext_s.lower()
 
-    is_pan = (
-        any(k.lower() in name_l for k in PAN_KEYWORDS) or
-        any(k.lower() in key_l for k in PAN_KEYWORDS) or
-        any(k.lower() in ext_l for k in PAN_EXT_KEYWORDS) or
-        any(a.lower() in api_l for a in PAN_APIS)
+    # 2. 梯队 4：判定是否为垂直非影视类 (儿歌/听书/教学/短剧/动漫/体育等，先于网盘匹配以防儿歌被误标为盘)
+    is_aux = (
+        any(k in name for k in AUX_KEYWORDS) or
+        any(k in key for k in AUX_KEYWORDS) or
+        any(a in api_l for a in AUX_APIS) or
+        any(a in key_l for a in AUX_APIS)
     )
-    if is_pan:
+    if is_aux:
+        clean_orig = original_name.rstrip()
+        new_name = clean_orig if clean_orig.endswith("|非影") else f"{clean_orig} |非影"
         return {
             "site": site,
             "orig_name": original_name,
-            "new_name": f"{original_name} |盘",
+            "new_name": new_name,
+            "category": "垂直非影视",
+            "tier": 4,
+            "subtier": 0,
+            "speed_kb_s": 0.0,
+            "ttfb": 999999
+        }
+
+    # 3. 梯队 5：判定是否为网盘扫码类 (含 4K 云盘/配置中心/网盘聚合)
+    is_4k_pan = ("4k" in name_l or "4k" in key_l) and not any(w in name for w in ["秒播", "点播", "直连", "采集", "1080p"])
+    is_pan = (
+        is_4k_pan or
+        any(k.lower() in name_l for k in PAN_KEYWORDS) or
+        any(k.lower() in key_l for k in PAN_KEYWORDS) or
+        any(k.lower() in ext_l for k in PAN_EXT_KEYWORDS) or
+        any(a.lower() in api_l for a in PAN_APIS) or
+        any(a.lower() in key_l for a in PAN_APIS)
+    )
+    if is_pan:
+        clean_orig = original_name.rstrip()
+        new_name = clean_orig if clean_orig.endswith("|盘") else f"{clean_orig} |盘"
+        return {
+            "site": site,
+            "orig_name": original_name,
+            "new_name": new_name,
             "category": "网盘扫码类",
             "tier": 5,
             "subtier": 0,
@@ -405,11 +441,10 @@ def classify_and_tag(site: dict) -> dict:
             "ttfb": 999999
         }
 
-    # 3. 判定是否为高清磁力站 (梯队 3)
+    # 4. 梯队 3：判定是否为高清磁力站
     is_magnet = (
-        any(k in name for k in ["🧲", "磁力", "迅雷", "种子", "荐片"]) or
-        any(k.lower() in name_l for k in ["torrent", "magnet"]) or
-        any(k.lower() in key_l for k in ["🧲", "磁力", "迅雷", "种子", "荐片", "torrent", "magnet"]) or
+        any(k in name for k in MAGNET_KEYWORDS) or
+        any(k.lower() in key_l for k in MAGNET_KEYWORDS) or
         any(a.lower() in api_l for a in MAGNET_APIS) or
         any(a.lower() in key_l for a in MAGNET_APIS) or
         "magnet:?" in ext_l
@@ -428,37 +463,20 @@ def classify_and_tag(site: dict) -> dict:
             "ttfb": 999999
         }
 
-    # 4. 判定是否为 JS 脚本引擎站 (梯队 6)
+    # 5. 梯队 6：判定是否为 JS 脚本引擎站
     is_js = (
-        "[js]" in name.lower() or
-        (isinstance(api, str) and (".js" in api.lower() or "drpy" in api.lower()))
+        "[js]" in name_l or
+        (isinstance(api, str) and (".js" in api_l or "drpy" in api_l))
     )
     if is_js:
+        clean_orig = original_name.rstrip()
+        new_name = clean_orig if clean_orig.endswith("|js") else f"{clean_orig} |js"
         return {
             "site": site,
             "orig_name": original_name,
-            "new_name": f"{original_name} |js",
+            "new_name": new_name,
             "category": "JS脚本引擎",
             "tier": 6,
-            "subtier": 0,
-            "speed_kb_s": 0.0,
-            "ttfb": 999999
-        }
-
-    # 5. 判定是否为垂直非影视类 (梯队 4)
-    is_aux = (
-        any(k in name for k in AUX_KEYWORDS) or
-        any(k in key for k in AUX_KEYWORDS) or
-        any(a in str(api) for a in AUX_APIS) or
-        site.get("searchable", 1) == 0
-    )
-    if is_aux:
-        return {
-            "site": site,
-            "orig_name": original_name,
-            "new_name": f"{original_name} |非影",
-            "category": "垂直非影视",
-            "tier": 4,
             "subtier": 0,
             "speed_kb_s": 0.0,
             "ttfb": 999999
