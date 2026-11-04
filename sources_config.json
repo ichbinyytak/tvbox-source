@@ -1,0 +1,124 @@
+{
+  "sources": [
+    {
+      "key": "fty",
+      "name": "饭太硬",
+      "enabled": true,
+      "role": "main",
+      "urls": [
+        "http://www.饭太硬.net/tv",
+        "https://www.iyouhun.com/tv/fty",
+        "http://饭太硬.top/tv"
+      ]
+    },
+    {
+      "key": "feimao",
+      "name": "肥猫",
+      "enabled": true,
+      "role": "main",
+      "urls": [
+        "http://肥猫.net",
+        "https://www.iyouhun.com/tv/fm",
+        "http://肥猫.live"
+      ]
+    },
+    {
+      "key": "moyu",
+      "name": "摸鱼",
+      "enabled": true,
+      "role": "main",
+      "urls": [
+        "http://我不是.摸鱼儿.top",
+        "https://www.iyouhun.com/tv/my"
+      ]
+    },
+    {
+      "key": "nanfeng",
+      "name": "南风",
+      "enabled": true,
+      "role": "main",
+      "urls": [
+        "https://www.iyouhun.com/tv/nf",
+        "https://jihulab.com/yoursmile77/TVBox/-/raw/master/XC.json"
+      ]
+    },
+    {
+      "key": "pg",
+      "name": "玩偶影视",
+      "enabled": true,
+      "role": "main",
+      "urls": [
+        "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/fun.json",
+        "https://raw.githubusercontent.com/cluntop/tvbox/main/fun.json"
+      ]
+    },
+    {
+      "key": "ok",
+      "name": "OK宝盒",
+      "enabled": true,
+      "role": "main",
+      "urls": [
+        "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/box.json",
+        "https://raw.githubusercontent.com/cluntop/tvbox/main/box.json"
+      ]
+    },
+    {
+      "key": "xiaosa",
+      "name": "潇洒",
+      "enabled": true,
+      "role": "main",
+      "urls": [
+        "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json",
+        "https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json"
+      ]
+    },
+    {
+      "key": "wex",
+      "name": "王二小",
+      "enabled": true,
+      "role": "main",
+      "urls": [
+        "https://9280.kstore.vip/newwex.json",
+        "https://9280.kstore.space/newwex.json"
+      ]
+    },
+    {
+      "key": "tvboxorg",
+      "name": "TVBox官方",
+      "enabled": true,
+      "role": "main",
+      "urls": [
+        "https://raw.githubusercontent.com/TVboxorg/TVbox/main/dist/official.json",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/TVboxorg/TVbox/main/dist/official.json"
+      ]
+    },
+    {
+      "key": "eyh",
+      "name": "二月红",
+      "enabled": true,
+      "role": "main",
+      "urls": [
+        "https://700sjro44343.vicp.fun/eggp/0211/tv.json"
+      ]
+    },
+    {
+      "key": "niu2",
+      "name": "牛二",
+      "enabled": true,
+      "role": "main",
+      "urls": [
+        "https://9280.kstore.space/wex.json",
+        "http://tvbox.王二小放牛娃.top/"
+      ]
+    },
+    {
+      "key": "moyu4k",
+      "name": "摸鱼4K",
+      "enabled": true,
+      "role": "main",
+      "urls": [
+        "https://6800.kstore.vip/fish.json"
+      ]
+    }
+  ]
+}
