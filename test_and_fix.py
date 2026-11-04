@@ -46,7 +46,7 @@ PAN_KEYWORDS = [
     "板凳", "慢点", "知我", "等风", "流映", "嗑剧", "凝光", "素笺", "长泽", "云岫",
     "搬运", "指南", "小丑", "八零", "即刻", "云集", "珈珈", "tiu6", "至臻", "简搜",
     "星河", "扫码", "网盘类", "emby", "alist", "webdav", "pansou", "duopan",
-    "pansearch", "panhunt", "yiso", "yunpan", "配置", "市场", "自定义"
+    "pansearch", "panhunt", "yiso", "yunpan", "配置", "市场", "自定义", "茉莉", "傻样", "种子"
 ]
 PAN_APIS = [
     "mydrive", "wogg", "seedhub", "s_zps", "ypanso", "bpanso", "kkss", "uuss", 
@@ -58,7 +58,7 @@ PAN_APIS = [
     "pancms", "jiansou", "yisou", "alips", "upyun", "fourkzn", "fishps", "misou",
     "market", "panmarket", "nullname", "wexwo", "wexpan", "tyso", "baiduso", "haiyinso",
     "97panso", "115share", "banyundao", "aipan", "jike", "shuangxing", "kkpan", "hdmoli", "wexdiy",
-    "config", "panconfig", "wexconfig", "wexokconfig", "xunleipan"
+    "config", "panconfig", "wexconfig", "wexokconfig", "xunleipan", "ainewduoduo", "duoduoziyuan", "duopancms", "fishduoduo"
 ]
 PAN_EXT_KEYWORDS = [
     "cloud-drive", "token.json", "woggpan", "aliyun", "quark", "panweb", "123pan",
@@ -417,10 +417,8 @@ def classify_and_tag(site: dict) -> dict:
             "ttfb": 999999
         }
 
-    # 3. 梯队 5：判定是否为网盘扫码类 (含 4K 云盘/配置中心/网盘聚合)
-    is_4k_pan = ("4k" in name_l or "4k" in key_l) and not any(w in name for w in ["秒播", "点播", "直连", "采集", "1080p"])
+    # 3. 梯队 5：判定是否为网盘扫码类 (绝不使用 4K 作为网盘判定条件，只依据网盘专属特征/API/配置)
     is_pan = (
-        is_4k_pan or
         any(k.lower() in name_l for k in PAN_KEYWORDS) or
         any(k.lower() in key_l for k in PAN_KEYWORDS) or
         any(k.lower() in ext_l for k in PAN_EXT_KEYWORDS) or
