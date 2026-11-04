@@ -31,8 +31,27 @@
       "quickSearch": 1
     },
     {
+      "key": "feifan",
+      "name": "🍀┃非凡┃资源 |5.9M|627ms",
+      "type": 1,
+      "api": "http://ffzy5.tv/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "战争片",
+        "国产剧",
+        "大陆综艺"
+      ],
+      "hide": 1,
+      "changeable": 1
+    },
+    {
       "key": "AppRJ",
-      "name": "🍂┃热播┃高清 |2.2M|2.7s",
+      "name": "🍂┃热播┃高清 |2.2M|1.1s",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -179,27 +198,8 @@
       "changeable": 1
     },
     {
-      "key": "feifan",
-      "name": "🍀┃非凡┃资源 |440K|628ms",
-      "type": 1,
-      "api": "http://ffzy5.tv/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "韩国剧",
-        "欧美剧",
-        "台湾剧",
-        "战争片",
-        "国产剧",
-        "大陆综艺"
-      ],
-      "hide": 1,
-      "changeable": 1
-    },
-    {
       "key": "Gz360",
-      "name": "🍂┃瓜子┃秒播 |0",
+      "name": "🍂┃瓜子┃秒播 |350K|1.7s",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
