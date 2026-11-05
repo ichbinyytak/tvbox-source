@@ -15,7 +15,7 @@
     },
     {
       "key": "厂长影视",
-      "name": "厂长 • 影视 |2.2M|1.3s",
+      "name": "厂长 • 影视 |2.2M|475ms",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -26,7 +26,7 @@
     },
     {
       "key": "热播影视",
-      "name": "热播 • APP |2.2M|2.4s",
+      "name": "热播 • APP |2.2M|564ms",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -35,16 +35,6 @@
       "ext": {
         "url": "http://v.rbotv.cn"
       },
-      "changeable": 1
-    },
-    {
-      "key": "旺旺影视",
-      "name": "旺旺 • 影视 |1.8M|180ms",
-      "type": 3,
-      "api": "csp_Wwys",
-      "ext": "https://vip.wwgz.cn:5200",
-      "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1
     },
     {
@@ -359,6 +349,25 @@
       }
     },
     {
+      "key": "瓜子影视",
+      "name": "瓜子 • 影视 |464K|226ms",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "旺旺影视",
+      "name": "旺旺 • 影视 |159K|1.7s",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://vip.wwgz.cn:5200",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "剧圈99",
       "name": "剧圈 • APP |0",
       "type": 3,
@@ -371,15 +380,6 @@
         "buildNumber": "2002",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       },
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "瓜子影视",
-      "name": "瓜子 • 影视 |0",
-      "type": 3,
-      "api": "csp_Gz360",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
