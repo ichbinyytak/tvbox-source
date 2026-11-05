@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar;md5;c6c7cbd14359dee31a97abb7ec27df19",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar;md5;356ad46efe5d2b44a9cb4a6deb9ef0df",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
   "sites": [
@@ -15,7 +15,7 @@
     },
     {
       "key": "厂长影视",
-      "name": "厂长 • 影视 |2.2M|475ms",
+      "name": "厂长 • 影视 |2.2M|110ms",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -26,7 +26,7 @@
     },
     {
       "key": "热播影视",
-      "name": "热播 • APP |2.2M|564ms",
+      "name": "热播 • APP |2.2M|209ms",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -350,7 +350,7 @@
     },
     {
       "key": "瓜子影视",
-      "name": "瓜子 • 影视 |464K|226ms",
+      "name": "瓜子 • 影视 |464K|162ms",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -359,7 +359,7 @@
     },
     {
       "key": "旺旺影视",
-      "name": "旺旺 • 影视 |159K|1.7s",
+      "name": "旺旺 • 影视 |222K|816ms",
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200",
@@ -415,7 +415,13 @@
       "key": "荐片",
       "name": "荐片 • 磁力 |磁力",
       "api": "csp_JianPian",
-      "type": 3
+      "type": 3,
+      "ext": {
+        "site": [
+          "https://www.whhyn.com",
+          "https://www.zxfmj.com"
+        ]
+      }
     },
     {
       "key": "New6v",
