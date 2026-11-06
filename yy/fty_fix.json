@@ -1,5 +1,5 @@
 {
-  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/da71a704cbc49a16c8a6339c640b7986.jpg;md5;10e816e12a91e021ca809ca07f58762d",
+  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/8057468f8f30ba79c6dbbeb7fc1a052e.jpg;md5;b3fb6f369726e9c688dd5a7ad017d0dd",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
@@ -13,8 +13,19 @@
       "changeable": 1
     },
     {
+      "key": "厂长",
+      "name": "📔厂长┃不卡 |2.2M|638ms",
+      "type": 3,
+      "api": "csp_NewCzGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "热播",
-      "name": "📺热播┃多线 |2.2M|796ms",
+      "name": "📺热播┃多线 |2.2M|826ms",
       "type": 3,
       "api": "csp_AppTTGuard",
       "timeout": 10,
@@ -25,19 +36,8 @@
       "ext": "uqGL1bNENExT7/hGxpSE5qU="
     },
     {
-      "key": "厂长",
-      "name": "📔厂长┃不卡 |2.2M|1.0s",
-      "type": 3,
-      "api": "csp_NewCzGuard",
-      "timeout": 10,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "奥特",
-      "name": "🏝奥特┃多线 |1.8M|386ms",
+      "name": "🏝奥特┃多线 |1.6M|391ms",
       "type": 3,
       "api": "csp_AueteGuard",
       "timeout": 10,
@@ -58,8 +58,21 @@
       }
     },
     {
+      "key": "有声小说",
+      "name": "🎧有声┃小说",
+      "type": 3,
+      "api": "csp_YueTingGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "瓜子",
-      "name": "👀瓜子┃不卡 |464K|183ms",
+      "name": "👀瓜子┃不卡 |464K|414ms",
       "type": 3,
       "api": "csp_AppgzGuard",
       "timeout": 15,
@@ -70,7 +83,7 @@
     },
     {
       "key": "比特",
-      "name": "🍄比特┃不卡 |387K|629ms",
+      "name": "🍄比特┃不卡 |428K|630ms",
       "type": 3,
       "api": "csp_BttwooGuard",
       "timeout": 10,
@@ -268,19 +281,6 @@
       "ext": {
         "json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"
       }
-    },
-    {
-      "key": "有声小说",
-      "name": "🎧有声┃小说 |非影",
-      "type": 3,
-      "api": "csp_Tingshu275Guard",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
     },
     {
       "key": "Aid",
@@ -497,7 +497,7 @@
       "changeable": 1,
       "ext": {
         "v2": "1",
-        "deviceId": "6fd6416460897d6b"
+        "deviceId": "6dc66339e1314f88"
       }
     },
     {

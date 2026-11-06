@@ -29,7 +29,7 @@
     },
     {
       "key": "tv_pref-007_csp_Auete",
-      "name": "🐼奥特·小盒子 |27.2M|27ms",
+      "name": "🐼奥特·小盒子 |27.2M|165ms",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -40,70 +40,8 @@
       "changeable": 1
     },
     {
-      "key": "tv_back-023_量子资源",
-      "name": "🥑┃量子┃资源·ok线路1 |13.5M|271ms",
-      "type": 1,
-      "api": "https://lzizy1.com/api.php/provide/vod/",
-      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "泰国剧",
-        "台湾剧",
-        "香港剧",
-        "欧美剧",
-        "韩国剧",
-        "日本剧",
-        "动漫",
-        "体育",
-        "剧情片",
-        "动作片",
-        "爱情片",
-        "喜剧片"
-      ],
-      "changeable": 1
-    },
-    {
-      "key": "tv_back-023_火狐",
-      "name": "🦊火狐采集·ok线路1 |6.6M|35ms",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "内地剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "韩剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "日剧",
-        "马泰剧",
-        "体育赛事",
-        "综艺",
-        "动画片",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫"
-      ],
-      "changeable": 1
-    },
-    {
       "key": "tv_back-023_csp_SNzy",
-      "name": "🐉┃索尼┃高清·ok线路1 |6.5M|39ms",
+      "name": "🐉┃索尼┃高清·ok线路1 |6.6M|80ms",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -139,8 +77,62 @@
       "changeable": 1
     },
     {
+      "key": "tv_back-023_火狐",
+      "name": "🦊火狐采集·ok线路1 |6.5M|82ms",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "内地剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "韩剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "日剧",
+        "马泰剧",
+        "体育赛事",
+        "综艺",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫"
+      ],
+      "changeable": 1
+    },
+    {
+      "key": "tv_back-012_feifan",
+      "name": "🍀┃非凡┃资源·二月红接口 |6.0M|68ms",
+      "type": 1,
+      "api": "http://ffzy5.tv/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "战争片",
+        "国产剧",
+        "大陆综艺"
+      ],
+      "hide": 1,
+      "changeable": 1
+    },
+    {
       "key": "tv_back-023_csp_非凡资源",
-      "name": "🥗┃非凡┃资源·ok线路1 |5.6M|74ms",
+      "name": "🥗┃非凡┃资源·ok线路1 |6.0M|71ms",
       "type": 1,
       "api": "http://ffzy1.tv/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -177,66 +169,8 @@
       "changeable": 1
     },
     {
-      "key": "tv_back-012_feifan",
-      "name": "🍀┃非凡┃资源·二月红接口 |5.6M|75ms",
-      "type": 1,
-      "api": "http://ffzy5.tv/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "韩国剧",
-        "欧美剧",
-        "台湾剧",
-        "战争片",
-        "国产剧",
-        "大陆综艺"
-      ],
-      "hide": 1,
-      "changeable": 1
-    },
-    {
-      "key": "tv_pref-007_csp_Czsapp",
-      "name": "🏭厂长·小盒子 |2.2M|219ms",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.czzy55.com/",
-      "jar": "http://xhztv.top/xhz/Yoursmile.jar",
-      "changeable": 1
-    },
-    {
-      "key": "tv_back-012_AppRJ",
-      "name": "🍂┃热播┃高清·二月红接口 |2.2M|404ms",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "url": "http://v.rbotv.cn",
-        "block": [
-          "线路二(点击切换)",
-          "CO4K"
-        ]
-      },
-      "jar": "http://118.89.172.248:8025/jar/tan.php",
-      "changeable": 1
-    },
-    {
-      "key": "WexAiReBo",
-      "name": "💥热播┃秒播💥 |2.2M|447ms",
-      "type": 3,
-      "api": "csp_WexAiReBoGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "tv_back-023_taopian",
-      "name": "🕹️淘片┃采集·ok线路1 |1.6M|5.1s",
+      "name": "🕹️淘片┃采集·ok线路1 |3.9M|218ms",
       "type": 1,
       "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
       "searchable": 1,
@@ -273,6 +207,54 @@
         "电影/悬疑片",
         "电影/纪录片"
       ],
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "tv_back-023_量子资源",
+      "name": "🥑┃量子┃资源·ok线路1 |3.4M|286ms",
+      "type": 1,
+      "api": "https://lzizy1.com/api.php/provide/vod/",
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片"
+      ],
+      "changeable": 1
+    },
+    {
+      "key": "tv_pref-007_csp_Czsapp",
+      "name": "🏭厂长·小盒子 |2.2M|280ms",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.czzy55.com/",
+      "jar": "http://xhztv.top/xhz/Yoursmile.jar",
+      "changeable": 1
+    },
+    {
+      "key": "WexAiReBo",
+      "name": "💥热播┃秒播💥 |2.2M|461ms",
+      "type": 3,
+      "api": "csp_WexAiReBoGuard",
+      "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
@@ -537,7 +519,7 @@
     },
     {
       "key": "WexAiGuaZi",
-      "name": "💥瓜子┃秒播💥 |464K|162ms",
+      "name": "💥瓜子┃秒播💥 |464K|422ms",
       "type": 3,
       "api": "csp_WexAiGuaZiGuard",
       "searchable": 1,
@@ -546,7 +528,7 @@
     },
     {
       "key": "tv_pref-007_csp_Bttwoo",
-      "name": "✌比特·小盒子 |366K|656ms",
+      "name": "✌比特·小盒子 |411K|566ms",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -828,6 +810,65 @@
       "filterable": 0,
       "ext": "http://www.xb6v.com/",
       "jar": "http://xhztv.top/xhz/Yoursmile.jar"
+    },
+    {
+      "key": "tv_back-024_暴風",
+      "name": "🦔暴風┃采集·荐片 |磁力",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "tv_back-024_索尼",
+      "name": "🦜索尼┃采集·荐片 |磁力",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "tv_back-024_360",
+      "name": "🦚360┃采集·荐片 |磁力",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod?",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "古装片",
+        "悬疑片",
+        "犯罪片",
+        "灾难片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "欧美动漫",
+        "日韩动漫",
+        "现代都市",
+        "脑洞悬疑",
+        "年代穿越",
+        "古装仙侠",
+        "女频恋爱",
+        "成长逆袭",
+        "反转爽剧"
+      ]
     },
     {
       "key": "biliys",
@@ -1967,26 +2008,6 @@
         "name": " 简搜"
       },
       "jar": "http://118.89.172.248:8025/jar/tan.php"
-    },
-    {
-      "key": "tv_back-012_ZhiZhenPanCms",
-      "name": "💖┃至臻┃4K💖·二月红接口 |盘",
-      "type": 3,
-      "api": "csp_PanCms",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "{\"site\":[\"http://118.89.172.248:22776\"],\"name\":\"网盘CMS\"}",
-      "jar": "http://118.89.172.248:8025/jar/tan.php"
-    },
-    {
-      "key": "tv_back-012_Star2",
-      "name": "💖┃剧透┃4K💖·二月红接口 |盘",
-      "type": 3,
-      "api": "csp_Star2",
-      "searchable": 1,
-      "filterable": 0,
-      "ext": "{\"site\":[\"https://1.star2.cn\"],\"name\":\"剧透社\"}",
-      "jar": "http://118.89.172.248:8025/jar/tan.php"
     }
   ],
   "parses": [
@@ -2890,6 +2911,36 @@
       "ext": {
         "header": {
           "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "巧技二",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905",
+          "NetFilx"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
         }
       }
     }
