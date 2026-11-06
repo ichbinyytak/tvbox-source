@@ -22,7 +22,7 @@
     },
     {
       "key": "CZ",
-      "name": "🏭┆厂长┆影视 |2.2M|400ms",
+      "name": "🏭┆厂长┆影视 |2.2M|786ms",
       "type": 3,
       "api": "csp_CZ",
       "searchable": 1,
@@ -45,7 +45,7 @@
     },
     {
       "key": "Rebo",
-      "name": "🍓┆热播┆APP |2.2M|666ms",
+      "name": "🍓┆热播┆APP |2.2M|965ms",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -240,7 +240,7 @@
     },
     {
       "key": "Guazi",
-      "name": "🍉┆瓜子┆影视 |464K|569ms",
+      "name": "🍉┆瓜子┆影视 |464K|146ms",
       "type": 3,
       "api": "csp_Guazi",
       "searchable": 1,
@@ -249,7 +249,7 @@
     },
     {
       "key": "Wwys",
-      "name": "🍙┆糯米┆影视 |186K|1.5s",
+      "name": "🍙┆糯米┆影视 |177K|1.5s",
       "type": 3,
       "api": "csp_Wwys",
       "searchable": 1,

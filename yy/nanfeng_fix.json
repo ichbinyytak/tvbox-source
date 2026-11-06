@@ -21,7 +21,7 @@
       "quickSearch": 1
     },
     {
-      "name": "🏭厂长 |2.2M|711ms",
+      "name": "🏭厂长 |2.2M|785ms",
       "key": "Czzy",
       "type": 3,
       "api": "csp_CzzyAmns",
@@ -368,7 +368,7 @@
       "changeable": 1
     },
     {
-      "name": "🍉瓜子 |464K|551ms",
+      "name": "🍉瓜子 |464K|187ms",
       "key": "csp_Guazi",
       "type": 3,
       "api": "csp_GuaziAmns",
