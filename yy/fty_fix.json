@@ -1,5 +1,5 @@
 {
-  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/8057468f8f30ba79c6dbbeb7fc1a052e.jpg;md5;b3fb6f369726e9c688dd5a7ad017d0dd",
+  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/465261b2a8e5940658201e5029b7b4e4.jpg;md5;5efc6505e4e2b151e1610012dd757506",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "key": "热播",
-      "name": "📺热播┃多线 |2.2M|794ms",
+      "name": "📺热播┃多线 |2.2M|1.0s",
       "type": 3,
       "api": "csp_AppTTGuard",
       "timeout": 10,
@@ -26,7 +26,7 @@
     },
     {
       "key": "厂长",
-      "name": "📔厂长┃不卡 |2.2M|851ms",
+      "name": "📔厂长┃不卡 |2.2M|1.1s",
       "type": 3,
       "api": "csp_NewCzGuard",
       "timeout": 10,
@@ -37,12 +37,27 @@
     },
     {
       "key": "奥特",
-      "name": "🏝奥特┃多线 |1004K|672ms",
+      "name": "🏝奥特┃多线 |893K|572ms",
       "type": 3,
       "api": "csp_AueteGuard",
       "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "AiDj",
+      "name": "❤️AI剧┃弹幕",
+      "type": 3,
+      "api": "csp_AiDjGuard",
+      "ext": {
+        "type": "video",
+        "name": "短剧",
+        "danMu": false
+      },
+      "indexs": 0,
+      "quickSearch": 1,
+      "searchable": 1,
       "changeable": 1
     },
     {
@@ -71,19 +86,8 @@
       "changeable": 1
     },
     {
-      "key": "瓜子",
-      "name": "👀瓜子┃不卡 |464K|137ms",
-      "type": 3,
-      "api": "csp_AppgzGuard",
-      "timeout": 15,
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "比特",
-      "name": "🍄比特┃不卡 |353K|744ms",
+      "name": "🍄比特┃不卡 |335K|735ms",
       "type": 3,
       "api": "csp_BttwooGuard",
       "timeout": 10,
@@ -100,6 +104,17 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw=="
+    },
+    {
+      "key": "瓜子",
+      "name": "👀瓜子┃不卡 |0",
+      "type": 3,
+      "api": "csp_AppgzGuard",
+      "timeout": 15,
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "糯米",
@@ -199,21 +214,6 @@
       "playerType": 2,
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "AiDj",
-      "name": "❤️AI┃短漫剧 |非影",
-      "type": 3,
-      "api": "csp_AiDjGuard",
-      "ext": {
-        "type": "video",
-        "name": "短剧",
-        "danMu": false
-      },
-      "indexs": 0,
-      "quickSearch": 1,
-      "searchable": 1,
       "changeable": 0
     },
     {
@@ -494,11 +494,7 @@
       "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "v2": "1",
-        "deviceId": "6dc66339e1314f88"
-      }
+      "changeable": 1
     },
     {
       "key": "立播",

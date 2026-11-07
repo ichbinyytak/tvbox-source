@@ -15,7 +15,7 @@
     },
     {
       "key": "枫叶影视",
-      "name": "枫叶 • 影视 |10.1M|221ms",
+      "name": "枫叶 • 影视 |10.1M|260ms",
       "type": 3,
       "api": "csp_FengYe",
       "ext": "https://www.vip1949.com/",
@@ -25,7 +25,7 @@
     },
     {
       "key": "厂长影视",
-      "name": "厂长 • 影视 |2.2M|192ms",
+      "name": "厂长 • 影视 |2.2M|349ms",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -36,7 +36,7 @@
     },
     {
       "key": "热播影视",
-      "name": "热播 • APP |2.2M|602ms",
+      "name": "热播 • APP |2.2M|663ms",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -359,17 +359,8 @@
       }
     },
     {
-      "key": "瓜子影视",
-      "name": "瓜子 • 影视 |464K|62ms",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "旺旺影视",
-      "name": "旺旺 • 影视 |183K|1.3s",
+      "name": "旺旺 • 影视 |165K|1.6s",
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200",
@@ -390,6 +381,15 @@
         "buildNumber": "2002",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       },
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "瓜子影视",
+      "name": "瓜子 • 影视 |0",
+      "type": 3,
+      "api": "csp_Gz360",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1

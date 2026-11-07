@@ -27,7 +27,7 @@
     },
     {
       "key": "厂长",
-      "name": "🏭┃厂长┃影视 |2.2M|615ms",
+      "name": "🏭┃厂长┃影视 |2.2M|597ms",
       "type": 3,
       "playerType": "2",
       "api": "csp_Czsapp",
@@ -35,16 +35,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://cz01.vip",
-      "changeable": 1
-    },
-    {
-      "key": "csp_Gz360",
-      "name": "🍉┃瓜子┃影视 |546K|734ms",
-      "type": 3,
-      "api": "csp_Gz360",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1
     },
     {
@@ -167,7 +157,7 @@
     },
     {
       "key": "csp_Jpys",
-      "name": "🥇️┃金牌┃影视 |215K|1.4s",
+      "name": "🥇️┃金牌┃影视 |210K|1.5s",
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com",
@@ -202,6 +192,16 @@
       "api": "csp_SaoHuo",
       "playerType": 2,
       "ext": "https://shdy5.us",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_Gz360",
+      "name": "🍉┃瓜子┃影视 |0",
+      "type": 3,
+      "api": "csp_Gz360",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
