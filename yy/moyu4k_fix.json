@@ -22,7 +22,7 @@
     },
     {
       "key": "Rebo",
-      "name": "🍓┆热播┆APP |2.2M|1.0s",
+      "name": "🍓┆热播┆APP |2.2M|872ms",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -35,7 +35,7 @@
     },
     {
       "key": "CZ",
-      "name": "🏭┆厂长┆影视 |2.2M|1.3s",
+      "name": "🏭┆厂长┆影视 |2.2M|899ms",
       "type": 3,
       "api": "csp_CZ",
       "searchable": 1,
@@ -239,8 +239,17 @@
       "changeable": 1
     },
     {
+      "key": "Guazi",
+      "name": "🍉┆瓜子┆影视 |464K|231ms",
+      "type": 3,
+      "api": "csp_Guazi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "Wwys",
-      "name": "🍙┆糯米┆影视 |165K|1.4s",
+      "name": "🍙┆糯米┆影视 |168K|1.1s",
       "type": 3,
       "api": "csp_Wwys",
       "searchable": 1,
@@ -256,15 +265,6 @@
       "api": "csp_WenCai",
       "searchable": 1,
       "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
-    },
-    {
-      "key": "Guazi",
-      "name": "🍉┆瓜子┆影视 |0",
-      "type": 3,
-      "api": "csp_Guazi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "SaoHuo",

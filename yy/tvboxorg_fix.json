@@ -29,7 +29,7 @@
     },
     {
       "key": "tv_pref-007_csp_Auete",
-      "name": "🐼奥特·小盒子 |27.2M|291ms",
+      "name": "🐼奥特·小盒子 |27.2M|336ms",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -40,8 +40,43 @@
       "changeable": 1
     },
     {
+      "key": "tv_back-023_火狐",
+      "name": "🦊火狐采集·ok线路1 |6.5M|49ms",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "内地剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "韩剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "日剧",
+        "马泰剧",
+        "体育赛事",
+        "综艺",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫"
+      ],
+      "changeable": 1
+    },
+    {
       "key": "tv_back-023_csp_SNzy",
-      "name": "🐉┃索尼┃高清·ok线路1 |6.6M|61ms",
+      "name": "🐉┃索尼┃高清·ok线路1 |6.4M|64ms",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -77,43 +112,8 @@
       "changeable": 1
     },
     {
-      "key": "tv_back-023_火狐",
-      "name": "🦊火狐采集·ok线路1 |6.4M|39ms",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "内地剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "韩剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "日剧",
-        "马泰剧",
-        "体育赛事",
-        "综艺",
-        "动画片",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫"
-      ],
-      "changeable": 1
-    },
-    {
       "key": "tv_back-012_feifan",
-      "name": "🍀┃非凡┃资源·二月红接口 |5.8M|141ms",
+      "name": "🍀┃非凡┃资源·二月红接口 |5.9M|156ms",
       "type": 1,
       "api": "http://ffzy5.tv/api.php/provide/vod",
       "searchable": 1,
@@ -132,7 +132,7 @@
     },
     {
       "key": "tv_back-023_csp_非凡资源",
-      "name": "🥗┃非凡┃资源·ok线路1 |5.8M|594ms",
+      "name": "🥗┃非凡┃资源·ok线路1 |5.9M|770ms",
       "type": 1,
       "api": "http://ffzy1.tv/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -170,7 +170,7 @@
     },
     {
       "key": "tv_pref-007_csp_Czsapp",
-      "name": "🏭厂长·小盒子 |2.2M|573ms",
+      "name": "🏭厂长·小盒子 |2.2M|541ms",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -182,7 +182,7 @@
     },
     {
       "key": "WexAiReBo",
-      "name": "💥热播┃秒播💥 |2.2M|712ms",
+      "name": "💥热播┃秒播💥 |2.2M|1.1s",
       "type": 3,
       "api": "csp_WexAiReBoGuard",
       "searchable": 1,
@@ -191,7 +191,7 @@
     },
     {
       "key": "tv_back-023_量子资源",
-      "name": "🥑┃量子┃资源·ok线路1 |2.2M|318ms",
+      "name": "🥑┃量子┃资源·ok线路1 |1.9M|364ms",
       "type": 1,
       "api": "https://lzizy1.com/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -218,7 +218,7 @@
     },
     {
       "key": "tv_back-023_taopian",
-      "name": "🕹️淘片┃采集·ok线路1 |858K|462ms",
+      "name": "🕹️淘片┃采集·ok线路1 |635K|472ms",
       "type": 1,
       "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
       "searchable": 1,
@@ -527,23 +527,23 @@
       "changeable": 1
     },
     {
+      "key": "WexAiGuaZi",
+      "name": "💥瓜子┃秒播💥 |464K|343ms",
+      "type": 3,
+      "api": "csp_WexAiGuaZiGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "tv_pref-007_csp_Bttwoo",
-      "name": "✌比特·小盒子 |337K|666ms",
+      "name": "✌比特·小盒子 |347K|744ms",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "jar": "http://xhztv.top/xhz/Yoursmile.jar",
-      "changeable": 1
-    },
-    {
-      "key": "WexAiGuaZi",
-      "name": "💥瓜子┃秒播💥 |0",
-      "type": 3,
-      "api": "csp_WexAiGuaZiGuard",
-      "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1
     },
     {
