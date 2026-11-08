@@ -27,7 +27,7 @@
     },
     {
       "key": "厂长",
-      "name": "🏭┃厂长┃影视 |2.2M|365ms",
+      "name": "🏭┃厂长┃影视 |2.2M|351ms",
       "type": 3,
       "playerType": "2",
       "api": "csp_Czsapp",
@@ -157,7 +157,7 @@
     },
     {
       "key": "csp_Gz360",
-      "name": "🍉┃瓜子┃影视 |464K|373ms",
+      "name": "🍉┃瓜子┃影视 |464K|91ms",
       "type": 3,
       "api": "csp_Gz360",
       "playerType": 2,
@@ -167,7 +167,7 @@
     },
     {
       "key": "csp_Jpys",
-      "name": "🥇️┃金牌┃影视 |210K|1.6s",
+      "name": "🥇️┃金牌┃影视 |329K|2.5s",
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com",

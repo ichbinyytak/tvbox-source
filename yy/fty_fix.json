@@ -1,10 +1,10 @@
 {
-  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/465261b2a8e5940658201e5029b7b4e4.jpg;md5;5efc6505e4e2b151e1610012dd757506",
+  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/937f5abf1c7c4ff2f170d835c5c46c21.jpg;md5;9d5f341aa5f3353b50cc3bc16b4f3e8a",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
       "key": "点我切源",
-      "name": "豆豆┃片单",
+      "name": "豆豆┃片单 <兼容安卓4>",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -13,20 +13,8 @@
       "changeable": 1
     },
     {
-      "key": "热播",
-      "name": "📺热播┃多线 |2.2M|908ms",
-      "type": 3,
-      "api": "csp_AppTTGuard",
-      "timeout": 10,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "uqGL1bNENExT7/hGxpSE5qU="
-    },
-    {
       "key": "厂长",
-      "name": "📔厂长┃不卡 |2.2M|1.2s",
+      "name": "📔厂长┃不卡 |2.2M|710ms",
       "type": 3,
       "api": "csp_NewCzGuard",
       "timeout": 10,
@@ -36,8 +24,19 @@
       "changeable": 1
     },
     {
+      "key": "热播",
+      "name": "📺热播┃多线 |2.2M|778ms",
+      "type": 3,
+      "api": "csp_AppTTGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "uqGL1bNENExT7/hGxpSE5qU="
+    },
+    {
       "key": "奥特",
-      "name": "🏝奥特┃多线 |709K|831ms",
+      "name": "🏝奥特┃多线 |857K|637ms",
       "type": 3,
       "api": "csp_AueteGuard",
       "timeout": 10,
@@ -87,18 +86,17 @@
     },
     {
       "key": "瓜子",
-      "name": "👀瓜子┃不卡 |464K|220ms",
+      "name": "👀瓜子┃不卡 |464K|99ms",
       "type": 3,
       "api": "csp_AppgzGuard",
       "timeout": 15,
-      "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
     {
       "key": "比特",
-      "name": "🍄比特┃不卡 |349K|765ms",
+      "name": "🍄比特┃不卡 |369K|697ms",
       "type": 3,
       "api": "csp_BttwooGuard",
       "timeout": 10,
@@ -177,7 +175,6 @@
       "type": 3,
       "api": "csp_JPJGuard",
       "timeout": 10,
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
