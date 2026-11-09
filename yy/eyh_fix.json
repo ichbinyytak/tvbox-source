@@ -26,13 +26,14 @@
       "type": 3,
       "api": "csp_Douban",
       "ext": "https://gitee.com/jiandan1232/BabyOS/raw/master/test/douban.json",
+      "jar": "http://118.89.172.248:8025/jar/tan2.php",
       "indexs": 1,
       "changeable": 1,
       "quickSearch": 1
     },
     {
       "key": "feifan",
-      "name": "🍀┃非凡┃资源 |5.8M|585ms",
+      "name": "🍀┃非凡┃资源 |5.6M|135ms",
       "type": 1,
       "api": "http://ffzy5.tv/api.php/provide/vod",
       "searchable": 1,
@@ -51,7 +52,7 @@
     },
     {
       "key": "AppRJ",
-      "name": "🍂┃热播┃高清 |2.2M|945ms",
+      "name": "🍂┃热播┃高清 |2.2M|1.1s",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -68,12 +69,26 @@
     },
     {
       "key": "Gz360",
-      "name": "🍂┃瓜子┃秒播 |1.1M|1.0s",
+      "name": "🍂┃瓜子┃秒播 |519K|1.1s",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "mino",
+      "name": "🍂┃MiNO┃秒播4K",
+      "type": 3,
+      "api": "csp_MiNO",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "rotate_device": 1,
+        "auto_fallback": 1
+      },
       "changeable": 1
     },
     {
@@ -171,6 +186,16 @@
       "changeable": 1
     },
     {
+      "key": "AppTd",
+      "name": "💃┃糖豆┃舞蹈",
+      "type": 3,
+      "api": "csp_AppTd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
       "key": "Jianpian",
       "name": "🍂┃荐片┃1080P |磁力",
       "type": 3,
@@ -179,6 +204,20 @@
       "quickSearch": 0,
       "ext": {
         "site": "https://api.ztcgi.com"
+      }
+    },
+    {
+      "key": "KuKuMusic",
+      "name": "🎵┃库库┃音乐 |非影",
+      "type": 3,
+      "api": "csp_KuKuMusic",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "oval",
+        "ratio": 1
       }
     },
     {
