@@ -14,7 +14,7 @@
     },
     {
       "key": "热播",
-      "name": "📺热播┃多线 |2.2M|841ms",
+      "name": "📺热播┃多线 |2.2M|812ms",
       "type": 3,
       "api": "csp_AppTTGuard",
       "timeout": 10,
@@ -25,7 +25,7 @@
     },
     {
       "key": "厂长",
-      "name": "📔厂长┃不卡 |2.2M|1.2s",
+      "name": "📔厂长┃不卡 |2.2M|1.0s",
       "type": 3,
       "api": "csp_NewCzGuard",
       "timeout": 10,
@@ -36,7 +36,7 @@
     },
     {
       "key": "奥特",
-      "name": "🏝奥特┃多线 |831K|733ms",
+      "name": "🏝奥特┃多线 |874K|782ms",
       "type": 3,
       "api": "csp_AueteGuard",
       "timeout": 10,
@@ -86,7 +86,7 @@
     },
     {
       "key": "瓜子",
-      "name": "👀瓜子┃不卡 |464K|199ms",
+      "name": "👀瓜子┃不卡 |464K|431ms",
       "type": 3,
       "api": "csp_AppgzGuard",
       "timeout": 15,
@@ -96,7 +96,7 @@
     },
     {
       "key": "比特",
-      "name": "🍄比特┃不卡 |324K|751ms",
+      "name": "🍄比特┃不卡 |353K|726ms",
       "type": 3,
       "api": "csp_BttwooGuard",
       "timeout": 10,
