@@ -21,7 +21,7 @@
       "quickSearch": 1
     },
     {
-      "name": "🏭厂长 |2.2M|950ms",
+      "name": "🏭厂长 |2.2M|600ms",
       "key": "Czzy",
       "type": 3,
       "api": "csp_CzzyAmns",
@@ -69,7 +69,7 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.asjdhjhd.mgd.p3",
         "host": "",
-        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+        "site": "https://1848463092.cdn.123clouddisk.com/1848463092/cct/az.txt",
         "version": "3.0.7.0",
         "decrypt": "1"
       },
@@ -368,7 +368,7 @@
       "changeable": 1
     },
     {
-      "name": "🍉瓜子 |464K|206ms",
+      "name": "🍉瓜子 |464K|485ms",
       "key": "csp_Guazi",
       "type": 3,
       "api": "csp_GuaziAmns",

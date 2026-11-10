@@ -29,7 +29,7 @@
     },
     {
       "key": "tv_back-023_量子资源",
-      "name": "🥑┃量子┃资源·ok线路1 |13.0M|491ms",
+      "name": "🥑┃量子┃资源·ok线路1 |13.8M|417ms",
       "type": 1,
       "api": "https://lzizy1.com/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -56,7 +56,7 @@
     },
     {
       "key": "tv_back-023_火狐",
-      "name": "🦊火狐采集·ok线路1 |6.5M|40ms",
+      "name": "🦊火狐采集·ok线路1 |6.6M|36ms",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -91,7 +91,7 @@
     },
     {
       "key": "tv_back-023_csp_SNzy",
-      "name": "🐉┃索尼┃高清·ok线路1 |6.4M|30ms",
+      "name": "🐉┃索尼┃高清·ok线路1 |6.6M|75ms",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -127,8 +127,46 @@
       "changeable": 1
     },
     {
+      "key": "tv_back-023_csp_非凡资源",
+      "name": "🥗┃非凡┃资源·ok线路1 |5.8M|39ms",
+      "type": 1,
+      "api": "http://ffzy1.tv/api.php/provide/vod/",
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ],
+      "changeable": 1
+    },
+    {
       "key": "tv_back-012_feifan",
-      "name": "🍀┃非凡┃资源·二月红接口 |5.8M|127ms",
+      "name": "🍀┃非凡┃资源·二月红接口 |5.8M|43ms",
       "type": 1,
       "api": "http://ffzy5.tv/api.php/provide/vod",
       "searchable": 1,
@@ -146,29 +184,8 @@
       "changeable": 1
     },
     {
-      "key": "tv_pref-007_csp_Czsapp",
-      "name": "🏭厂长·小盒子 |2.2M|584ms",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.czzy55.com/",
-      "jar": "http://xhztv.top/xhz/Yoursmile.jar",
-      "changeable": 1
-    },
-    {
-      "key": "WexAiReBo",
-      "name": "💥热播┃秒播💥 |2.2M|701ms",
-      "type": 3,
-      "api": "csp_WexAiReBoGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "tv_back-023_taopian",
-      "name": "🕹️淘片┃采集·ok线路1 |950K|374ms",
+      "name": "🕹️淘片┃采集·ok线路1 |3.7M|192ms",
       "type": 1,
       "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
       "searchable": 1,
@@ -206,6 +223,27 @@
         "电影/纪录片"
       ],
       "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "WexAiReBo",
+      "name": "💥热播┃秒播💥 |2.2M|396ms",
+      "type": 3,
+      "api": "csp_WexAiReBoGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "tv_pref-007_csp_Czsapp",
+      "name": "🏭厂长·小盒子 |2.2M|425ms",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.czzy55.com/",
+      "jar": "http://xhztv.top/xhz/Yoursmile.jar",
       "changeable": 1
     },
     {
@@ -478,7 +516,7 @@
     },
     {
       "key": "WexAiGuaZi",
-      "name": "💥瓜子┃秒播💥 |464K|297ms",
+      "name": "💥瓜子┃秒播💥 |464K|456ms",
       "type": 3,
       "api": "csp_WexAiGuaZiGuard",
       "searchable": 1,
@@ -487,7 +525,7 @@
     },
     {
       "key": "tv_pref-007_csp_Bttwoo",
-      "name": "✌比特·小盒子 |353K|731ms",
+      "name": "✌比特·小盒子 |434K|563ms",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -585,44 +623,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "tv_back-023_csp_非凡资源",
-      "name": "🥗┃非凡┃资源·ok线路1 |0",
-      "type": 1,
-      "api": "http://ffzy1.tv/api.php/provide/vod/",
-      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ],
       "changeable": 1
     },
     {
