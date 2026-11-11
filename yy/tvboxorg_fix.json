@@ -29,7 +29,7 @@
     },
     {
       "key": "tv_back-023_量子资源",
-      "name": "🥑┃量子┃资源·ok线路1 |13.8M|417ms",
+      "name": "🥑┃量子┃资源·ok线路1 |13.8M|373ms",
       "type": 1,
       "api": "https://lzizy1.com/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -56,7 +56,7 @@
     },
     {
       "key": "tv_back-023_火狐",
-      "name": "🦊火狐采集·ok线路1 |6.6M|36ms",
+      "name": "🦊火狐采集·ok线路1 |6.7M|47ms",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -91,7 +91,7 @@
     },
     {
       "key": "tv_back-023_csp_SNzy",
-      "name": "🐉┃索尼┃高清·ok线路1 |6.6M|75ms",
+      "name": "🐉┃索尼┃高清·ok线路1 |6.5M|98ms",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -127,8 +127,27 @@
       "changeable": 1
     },
     {
+      "key": "tv_back-012_feifan",
+      "name": "🍀┃非凡┃资源·二月红接口 |6.2M|195ms",
+      "type": 1,
+      "api": "http://ffzy5.tv/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "战争片",
+        "国产剧",
+        "大陆综艺"
+      ],
+      "hide": 1,
+      "changeable": 1
+    },
+    {
       "key": "tv_back-023_csp_非凡资源",
-      "name": "🥗┃非凡┃资源·ok线路1 |5.8M|39ms",
+      "name": "🥗┃非凡┃资源·ok线路1 |6.2M|198ms",
       "type": 1,
       "api": "http://ffzy1.tv/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -165,27 +184,39 @@
       "changeable": 1
     },
     {
-      "key": "tv_back-012_feifan",
-      "name": "🍀┃非凡┃资源·二月红接口 |5.8M|43ms",
+      "key": "tv_back-023_百度",
+      "name": "🎏百度┃采集·ok线路1 |6.1M|290ms",
       "type": 1,
-      "api": "http://ffzy5.tv/api.php/provide/vod",
+      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "WexAiReBo",
+      "name": "💥热播┃秒播💥 |2.2M|793ms",
+      "type": 3,
+      "api": "csp_WexAiReBoGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "韩国剧",
-        "欧美剧",
-        "台湾剧",
-        "战争片",
-        "国产剧",
-        "大陆综艺"
-      ],
-      "hide": 1,
+      "changeable": 1
+    },
+    {
+      "key": "tv_pref-007_csp_Czsapp",
+      "name": "🏭厂长·小盒子 |2.2M|821ms",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.czzy55.com/",
+      "jar": "http://xhztv.top/xhz/Yoursmile.jar",
       "changeable": 1
     },
     {
       "key": "tv_back-023_taopian",
-      "name": "🕹️淘片┃采集·ok线路1 |3.7M|192ms",
+      "name": "🕹️淘片┃采集·ok线路1 |786K|429ms",
       "type": 1,
       "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
       "searchable": 1,
@@ -223,27 +254,6 @@
         "电影/纪录片"
       ],
       "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "WexAiReBo",
-      "name": "💥热播┃秒播💥 |2.2M|396ms",
-      "type": 3,
-      "api": "csp_WexAiReBoGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "tv_pref-007_csp_Czsapp",
-      "name": "🏭厂长·小盒子 |2.2M|425ms",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.czzy55.com/",
-      "jar": "http://xhztv.top/xhz/Yoursmile.jar",
       "changeable": 1
     },
     {
@@ -516,7 +526,7 @@
     },
     {
       "key": "WexAiGuaZi",
-      "name": "💥瓜子┃秒播💥 |464K|456ms",
+      "name": "💥瓜子┃秒播💥 |464K|424ms",
       "type": 3,
       "api": "csp_WexAiGuaZiGuard",
       "searchable": 1,
@@ -525,7 +535,7 @@
     },
     {
       "key": "tv_pref-007_csp_Bttwoo",
-      "name": "✌比特·小盒子 |434K|563ms",
+      "name": "✌比特·小盒子 |334K|774ms",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -778,16 +788,6 @@
         "体育赛事",
         "短剧"
       ]
-    },
-    {
-      "key": "tv_back-023_百度",
-      "name": "🎏百度┃采集·ok线路1 |0",
-      "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 0,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "賤賤",

@@ -29,7 +29,7 @@
     },
     {
       "key": "WexAiReBo",
-      "name": "💥热播┃秒播💥 |2.2M|586ms",
+      "name": "💥热播┃秒播💥 |2.2M|905ms",
       "type": 3,
       "api": "csp_WexAiReBoGuard",
       "searchable": 1,
@@ -262,7 +262,7 @@
     },
     {
       "key": "WexAiGuaZi",
-      "name": "💥瓜子┃秒播💥 |464K|491ms",
+      "name": "💥瓜子┃秒播💥 |464K|325ms",
       "type": 3,
       "api": "csp_WexAiGuaZiGuard",
       "searchable": 1,
