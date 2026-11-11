@@ -1,12 +1,12 @@
 {
-  "spider": "https://ss1.eisite.cn/autoupload/f/eja2s/20261102/WU58/0X0/fm261102c.png;md5;6a396033ae45efee57ba789f91d7123e",
+  "spider": "https://img2.gelonghui.com/library/6a396-4e09c48e-c9bc-4313-b788-8d5120f90e5d.png;md5;6a396033ae45efee57ba789f91d7123e",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "logo": "http://w.junce.dpdns.org/fm.gif",
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🐼┃QQ频道：游魂网┃",
+      "name": "🐼┃QQ频道：肥猫宝贝┃",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -39,11 +39,11 @@
         "categories": [
           {
             "name": "Fongmi影视",
-            "url": "https://pan.quark.cn/s/924673c16475"
+            "url": "https://pan.quark.cn/s/7129866d8655"
           },
           {
             "name": "OK影视",
-            "url": "https://pan.quark.cn/s/3c605019c65b"
+            "url": "https://pan.quark.cn/s/cc286c991136"
           },
           {
             "name": "Kazumi",
@@ -407,7 +407,7 @@
       "key": "儿童",
       "name": "📚┃儿童┃启蒙",
       "type": 3,
-      "api": "https://www.iyouhun.com/tv/json/api/drpy2.min.js",
+      "api": "http://api/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -415,7 +415,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "ext": "https://www.iyouhun.com/tv/json/js/兔小贝.js"
+      "ext": "http://js/兔小贝.js"
     },
     {
       "key": "csp_少儿",
@@ -479,12 +479,12 @@
     },
     {
       "key": "push_agent",
-      "name": "QQ频道：游魂网",
+      "name": "QQ频道：肥猫宝贝",
       "type": 3,
       "api": "csp_Push",
       "playerType": "1",
       "searchable": 0,
-      "ext": "https://www.iyouhun.com/tv/.json/txt/ken.txt"
+      "ext": "http://.json/txt/ken.txt"
     }
   ],
   "parses": [
