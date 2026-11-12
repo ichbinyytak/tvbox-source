@@ -21,8 +21,21 @@
       "changeable": 1
     },
     {
+      "key": "Rebo",
+      "name": "🍓┆热播┆APP |2.2M|598ms",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      },
+      "changeable": 1
+    },
+    {
       "key": "CZ",
-      "name": "🏭┆厂长┆影视 |2.2M|852ms",
+      "name": "🏭┆厂长┆影视 |2.2M|668ms",
       "type": 3,
       "api": "csp_CZ",
       "searchable": 1,
@@ -40,19 +53,6 @@
           "https://www.czzy.site",
           "https://czzy.top"
         ]
-      },
-      "changeable": 1
-    },
-    {
-      "key": "Rebo",
-      "name": "🍓┆热播┆APP |2.2M|887ms",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.rbotv.cn"
       },
       "changeable": 1
     },
@@ -306,7 +306,7 @@
     },
     {
       "key": "Guazi",
-      "name": "🍉┆瓜子┆影视 |464K|519ms",
+      "name": "🍉┆瓜子┆影视 |464K|246ms",
       "type": 3,
       "api": "csp_Guazi",
       "searchable": 1,
@@ -315,7 +315,7 @@
     },
     {
       "key": "Wwys",
-      "name": "🍙┆糯米┆影视 |180K|1.0s",
+      "name": "🍙┆糯米┆影视 |207K|1.2s",
       "type": 3,
       "api": "csp_Wwys",
       "searchable": 1,

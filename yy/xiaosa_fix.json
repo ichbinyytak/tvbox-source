@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar;md5;c25d34b0cfc044cd1ab3f225097ea7fd",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar;md5;a2928946eb00e5fee87663c94ae37bff",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
   "sites": [
@@ -15,7 +15,7 @@
     },
     {
       "key": "枫叶影视",
-      "name": "枫叶 • 影视 |10.1M|265ms",
+      "name": "枫叶 • 影视 |10.1M|167ms",
       "type": 3,
       "api": "csp_FengYe",
       "ext": "https://www.vip1949.com/",
@@ -24,19 +24,8 @@
       "changeable": 1
     },
     {
-      "key": "厂长影视",
-      "name": "厂长 • 影视 |2.2M|394ms",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cz01.vip",
-      "changeable": 1
-    },
-    {
       "key": "热播影视",
-      "name": "热播 • APP |2.2M|595ms",
+      "name": "热播 • APP |2.2M|281ms",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -48,6 +37,17 @@
       "changeable": 1
     },
     {
+      "key": "厂长影视",
+      "name": "厂长 • 影视 |2.2M|292ms",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cz01.vip",
+      "changeable": 1
+    },
+    {
       "key": "米诺",
       "name": "米诺 • APP",
       "type": 3,
@@ -55,6 +55,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "下饭",
+      "name": "下饭 • APP",
+      "type": 3,
+      "api": "csp_JuXiaFan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "changeable": 1
     },
     {
@@ -381,7 +391,7 @@
     },
     {
       "key": "瓜子影视",
-      "name": "瓜子 • 影视 |464K|396ms",
+      "name": "瓜子 • 影视 |464K|184ms",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -390,7 +400,7 @@
     },
     {
       "key": "旺旺影视",
-      "name": "旺旺 • 影视 |177K|1.3s",
+      "name": "旺旺 • 影视 |205K|1.6s",
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200",
