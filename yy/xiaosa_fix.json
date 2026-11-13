@@ -15,7 +15,7 @@
     },
     {
       "key": "枫叶影视",
-      "name": "枫叶 • 影视 |10.1M|167ms",
+      "name": "枫叶 • 影视 |10.1M|183ms",
       "type": 3,
       "api": "csp_FengYe",
       "ext": "https://www.vip1949.com/",
@@ -24,8 +24,19 @@
       "changeable": 1
     },
     {
+      "key": "厂长影视",
+      "name": "厂长 • 影视 |2.2M|136ms",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cz01.vip",
+      "changeable": 1
+    },
+    {
       "key": "热播影视",
-      "name": "热播 • APP |2.2M|281ms",
+      "name": "热播 • APP |2.2M|284ms",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -34,17 +45,6 @@
       "ext": {
         "url": "http://v.rbotv.cn"
       },
-      "changeable": 1
-    },
-    {
-      "key": "厂长影视",
-      "name": "厂长 • 影视 |2.2M|292ms",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cz01.vip",
       "changeable": 1
     },
     {
@@ -391,7 +391,7 @@
     },
     {
       "key": "瓜子影视",
-      "name": "瓜子 • 影视 |464K|184ms",
+      "name": "瓜子 • 影视 |464K|475ms",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -400,7 +400,7 @@
     },
     {
       "key": "旺旺影视",
-      "name": "旺旺 • 影视 |205K|1.6s",
+      "name": "旺旺 • 影视 |205K|1.9s",
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200",
