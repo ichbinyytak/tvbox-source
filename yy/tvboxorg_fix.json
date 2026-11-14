@@ -28,8 +28,20 @@
       "changeable": 1
     },
     {
+      "key": "tv_pref-007_csp_Auete",
+      "name": "🐼奥特·小盒子 |27.2M|272ms",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://auete.pro/",
+      "jar": "http://xhztv.top/xhz/Yoursmile.jar",
+      "changeable": 1
+    },
+    {
       "key": "tv_back-023_火狐",
-      "name": "🦊火狐采集·ok线路1 |6.5M|29ms",
+      "name": "🦊火狐采集·ok线路1 |6.5M|40ms",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -64,7 +76,7 @@
     },
     {
       "key": "tv_back-023_csp_SNzy",
-      "name": "🐉┃索尼┃高清·ok线路1 |6.5M|44ms",
+      "name": "🐉┃索尼┃高清·ok线路1 |6.4M|82ms",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -101,7 +113,7 @@
     },
     {
       "key": "tv_back-023_百度",
-      "name": "🎏百度┃采集·ok线路1 |6.0M|127ms",
+      "name": "🎏百度┃采集·ok线路1 |6.1M|225ms",
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -111,7 +123,7 @@
     },
     {
       "key": "tv_back-012_feifan",
-      "name": "🍀┃非凡┃资源·二月红接口 |5.9M|73ms",
+      "name": "🍀┃非凡┃资源·二月红接口 |5.8M|130ms",
       "type": 1,
       "api": "http://ffzy5.tv/api.php/provide/vod",
       "searchable": 1,
@@ -130,7 +142,7 @@
     },
     {
       "key": "tv_back-023_csp_非凡资源",
-      "name": "🥗┃非凡┃资源·ok线路1 |5.9M|625ms",
+      "name": "🥗┃非凡┃资源·ok线路1 |5.8M|162ms",
       "type": 1,
       "api": "http://ffzy1.tv/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -168,7 +180,7 @@
     },
     {
       "key": "tv_back-023_量子资源",
-      "name": "🥑┃量子┃资源·ok线路1 |4.3M|284ms",
+      "name": "🥑┃量子┃资源·ok线路1 |5.1M|348ms",
       "type": 1,
       "api": "https://lzizy1.com/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -195,7 +207,7 @@
     },
     {
       "key": "tv_pref-007_csp_Czsapp",
-      "name": "🏭厂长·小盒子 |2.2M|217ms",
+      "name": "🏭厂长·小盒子 |2.2M|545ms",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -207,7 +219,7 @@
     },
     {
       "key": "WexAiReBo",
-      "name": "💥热播┃秒播💥 |2.2M|490ms",
+      "name": "💥热播┃秒播💥 |2.2M|797ms",
       "type": 3,
       "api": "csp_WexAiReBoGuard",
       "searchable": 1,
@@ -216,7 +228,7 @@
     },
     {
       "key": "tv_back-023_taopian",
-      "name": "🕹️淘片┃采集·ok线路1 |1.5M|204ms",
+      "name": "🕹️淘片┃采集·ok线路1 |771K|424ms",
       "type": 1,
       "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
       "searchable": 1,
@@ -526,7 +538,7 @@
     },
     {
       "key": "WexAiGuaZi",
-      "name": "💥瓜子┃秒播💥 |464K|184ms",
+      "name": "💥瓜子┃秒播💥 |464K|287ms",
       "type": 3,
       "api": "csp_WexAiGuaZiGuard",
       "searchable": 1,
@@ -535,24 +547,12 @@
     },
     {
       "key": "tv_pref-007_csp_Bttwoo",
-      "name": "✌比特·小盒子 |391K|612ms",
+      "name": "✌比特·小盒子 |319K|747ms",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://xhztv.top/xhz/Yoursmile.jar",
-      "changeable": 1
-    },
-    {
-      "key": "tv_pref-007_csp_Auete",
-      "name": "🐼奥特·小盒子 |216K|77ms",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://auete.pro/",
       "jar": "http://xhztv.top/xhz/Yoursmile.jar",
       "changeable": 1
     },

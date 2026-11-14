@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar;md5;d2c9caaaeba20f00baac53295dbed29e",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar;md5;cbe016eb3cb002ae62058604843f5106",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
   "sites": [
@@ -15,7 +15,7 @@
     },
     {
       "key": "枫叶影视",
-      "name": "枫叶 • 影视 |10.1M|114ms",
+      "name": "枫叶 • 影视 |10.1M|322ms",
       "type": 3,
       "api": "csp_FengYe",
       "ext": "https://www.vip1949.com/",
@@ -25,7 +25,7 @@
     },
     {
       "key": "厂长影视",
-      "name": "厂长 • 影视 |2.2M|105ms",
+      "name": "厂长 • 影视 |2.2M|506ms",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -36,7 +36,7 @@
     },
     {
       "key": "热播影视",
-      "name": "热播 • APP |2.2M|224ms",
+      "name": "热播 • APP |2.2M|1.0s",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -274,6 +274,15 @@
       "changeable": 1
     },
     {
+      "key": "看剧",
+      "name": "看剧 • 影视",
+      "type": 3,
+      "api": "csp_KanJuAI",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "懂片",
       "name": "懂片 • 影视",
       "type": 3,
@@ -382,7 +391,7 @@
     },
     {
       "key": "瓜子影视",
-      "name": "瓜子 • 影视 |464K|160ms",
+      "name": "瓜子 • 影视 |464K|428ms",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -391,7 +400,7 @@
     },
     {
       "key": "旺旺影视",
-      "name": "旺旺 • 影视 |252K|805ms",
+      "name": "旺旺 • 影视 |160K|1.2s",
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200",
