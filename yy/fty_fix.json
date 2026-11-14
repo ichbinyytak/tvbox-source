@@ -1,10 +1,10 @@
 {
-  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/776af3c4b61098b3573b4973f867010c.jpg;md5;76e9565340e6d28c363b914ca2d506ed",
+  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/9970bc4b67aa7d907871548db1c31bba.jpg;md5;fa1bcd5643872834ee03be5ba2f23ac7",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
       "key": "点我切源",
-      "name": "豆豆┃片单 <Fix Everything>",
+      "name": "豆豆┃片单 <升级弹幕>",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -14,7 +14,7 @@
     },
     {
       "key": "热播",
-      "name": "📺热播┃多线 |2.2M|1.0s",
+      "name": "📺热播┃多线 |2.2M|983ms",
       "type": 3,
       "api": "csp_AppTTGuard",
       "timeout": 10,
@@ -25,7 +25,7 @@
     },
     {
       "key": "厂长",
-      "name": "📔厂长┃不卡 |2.2M|1.1s",
+      "name": "📔厂长┃不卡 |2.2M|1.0s",
       "type": 3,
       "api": "csp_NewCzGuard",
       "timeout": 10,
@@ -36,7 +36,7 @@
     },
     {
       "key": "奥特",
-      "name": "🏝奥特┃多线 |662K|835ms",
+      "name": "🏝奥特┃多线 |827K|756ms",
       "type": 3,
       "api": "csp_AueteGuard",
       "timeout": 10,
@@ -120,7 +120,7 @@
     },
     {
       "key": "瓜子",
-      "name": "👀瓜子┃不卡 |464K|380ms",
+      "name": "👀瓜子┃不卡 |464K|348ms",
       "type": 3,
       "api": "csp_AppgzGuard",
       "timeout": 15,
@@ -130,7 +130,7 @@
     },
     {
       "key": "比特",
-      "name": "🍄比特┃不卡 |311K|755ms",
+      "name": "🍄比特┃不卡 |340K|763ms",
       "type": 3,
       "api": "csp_BttwooGuard",
       "timeout": 10,
@@ -506,17 +506,6 @@
       "indexs": 0
     },
     {
-      "key": "海绵",
-      "name": "🐬海绵┃不卡 |盘",
-      "type": 3,
-      "api": "csp_HmysGuard",
-      "timeout": 10,
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "立播",
       "name": "🌟立播┃不卡 |盘",
       "type": 3,
@@ -529,6 +518,17 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "siteUrl": "https://www.libvio.pw/"
       }
+    },
+    {
+      "key": "海绵",
+      "name": "🐬海绵┃不卡 |盘",
+      "type": 3,
+      "api": "csp_HmysGuard",
+      "timeout": 10,
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "ZPan",

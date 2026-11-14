@@ -15,7 +15,7 @@
     },
     {
       "key": "枫叶影视",
-      "name": "枫叶 • 影视 |10.1M|322ms",
+      "name": "枫叶 • 影视 |10.1M|274ms",
       "type": 3,
       "api": "csp_FengYe",
       "ext": "https://www.vip1949.com/",
@@ -25,7 +25,7 @@
     },
     {
       "key": "厂长影视",
-      "name": "厂长 • 影视 |2.2M|506ms",
+      "name": "厂长 • 影视 |2.2M|532ms",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -391,7 +391,7 @@
     },
     {
       "key": "瓜子影视",
-      "name": "瓜子 • 影视 |464K|428ms",
+      "name": "瓜子 • 影视 |464K|260ms",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -400,7 +400,7 @@
     },
     {
       "key": "旺旺影视",
-      "name": "旺旺 • 影视 |160K|1.2s",
+      "name": "旺旺 • 影视 |176K|1.1s",
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200",
