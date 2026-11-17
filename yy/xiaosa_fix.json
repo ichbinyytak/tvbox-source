@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar;md5;85c2c38467d85bb4e98c426af4519eab",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar;md5;decb609b673019e18512dc3a96b6a252",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
   "sites": [
@@ -15,7 +15,7 @@
     },
     {
       "key": "厂长影视",
-      "name": "厂长 • 影视 |2.2M|113ms",
+      "name": "厂长 • 影视 |2.2M|229ms",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -26,7 +26,7 @@
     },
     {
       "key": "热播影视",
-      "name": "热播 • APP |2.2M|221ms",
+      "name": "热播 • APP |2.2M|481ms",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -38,10 +38,20 @@
       "changeable": 1
     },
     {
-      "key": "米诺",
-      "name": "米诺 • APP",
+      "key": "云播",
+      "name": "云播 • APP",
       "type": 3,
-      "api": "csp_AppMN",
+      "api": "csp_AppYB",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "未来",
+      "name": "未来 • APP",
+      "type": 3,
+      "api": "csp_AppWL",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -381,7 +391,7 @@
     },
     {
       "key": "瓜子影视",
-      "name": "瓜子 • 影视 |464K|152ms",
+      "name": "瓜子 • 影视 |464K|426ms",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -390,7 +400,7 @@
     },
     {
       "key": "旺旺影视",
-      "name": "旺旺 • 影视 |235K|814ms",
+      "name": "旺旺 • 影视 |198K|1.5s",
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200",
