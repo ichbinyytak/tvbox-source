@@ -1,5 +1,5 @@
 {
-  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/ecfa02ed45de3eb43e427fe3447b5a36.jpg;md5;fb6c7aca82019e4fb811497a37629e3d",
+  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/1a00b65d4294e41a51dd97814c02dd08.jpg;md5;c7ac89ae1d981e87afb9698a8a4ca30b",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
@@ -13,19 +13,8 @@
       "changeable": 1
     },
     {
-      "key": "热播",
-      "name": "📺热播┃多线 |2.2M|718ms",
-      "type": 3,
-      "api": "csp_AppTTGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "uqGL1bNENExT7/hGxpSE5qU="
-    },
-    {
       "key": "厂长",
-      "name": "📔厂长┃不卡 |2.2M|778ms",
+      "name": "📔厂长┃不卡 |2.2M|1.0s",
       "type": 3,
       "api": "csp_NewCzGuard",
       "timeout": 10,
@@ -35,8 +24,19 @@
       "changeable": 1
     },
     {
+      "key": "热播",
+      "name": "📺热播┃多线 |2.2M|1.0s",
+      "type": 3,
+      "api": "csp_AppTTGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "uqGL1bNENExT7/hGxpSE5qU="
+    },
+    {
       "key": "奥特",
-      "name": "🏝奥特┃多线 |956K|629ms",
+      "name": "🏝奥特┃多线 |700K|828ms",
       "type": 3,
       "api": "csp_AueteGuard",
       "timeout": 10,
@@ -120,7 +120,7 @@
     },
     {
       "key": "瓜子",
-      "name": "👀瓜子┃不卡 |464K|364ms",
+      "name": "👀瓜子┃不卡 |464K|380ms",
       "type": 3,
       "api": "csp_AppgzGuard",
       "timeout": 15,
@@ -130,7 +130,7 @@
     },
     {
       "key": "比特",
-      "name": "🍄比特┃不卡 |371K|731ms",
+      "name": "🍄比特┃不卡 |342K|736ms",
       "type": 3,
       "api": "csp_BttwooGuard",
       "timeout": 10,

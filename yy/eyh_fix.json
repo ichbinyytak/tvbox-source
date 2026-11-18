@@ -32,7 +32,7 @@
     },
     {
       "key": "feifan",
-      "name": "🍀┃非凡┃资源 |5.8M|307ms",
+      "name": "🍀┃非凡┃资源 |5.8M|619ms",
       "type": 1,
       "api": "http://ffzy5.tv/api.php/provide/vod",
       "searchable": 1,
@@ -51,7 +51,7 @@
     },
     {
       "key": "AppRJ",
-      "name": "🍂┃热播┃高清 |2.2M|1.2s",
+      "name": "🍂┃热播┃高清 |2.2M|1.0s",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -64,16 +64,6 @@
           "CO4K"
         ]
       },
-      "changeable": 1
-    },
-    {
-      "key": "Gz360",
-      "name": "🍂┃瓜子┃秒播 |846K|1.4s",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
       "changeable": 1
     },
     {
@@ -210,6 +200,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Gz360",
+      "name": "🍂┃瓜子┃秒播 |193K|1.5s",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
       "changeable": 1
     },
     {
