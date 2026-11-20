@@ -29,7 +29,7 @@
     },
     {
       "key": "tv_pref-007_csp_Auete",
-      "name": "🐼奥特·小盒子 |27.2M|307ms",
+      "name": "🐼奥特·小盒子 |27.2M|242ms",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -40,8 +40,35 @@
       "changeable": 1
     },
     {
+      "key": "tv_back-023_量子资源",
+      "name": "🥑┃量子┃资源·ok线路1 |11.4M|512ms",
+      "type": 1,
+      "api": "https://lzizy1.com/api.php/provide/vod/",
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片"
+      ],
+      "changeable": 1
+    },
+    {
       "key": "tv_back-023_火狐",
-      "name": "🦊火狐采集·ok线路1 |6.7M|33ms",
+      "name": "🦊火狐采集·ok线路1 |7.3M|58ms",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -76,7 +103,7 @@
     },
     {
       "key": "tv_back-023_csp_SNzy",
-      "name": "🐉┃索尼┃高清·ok线路1 |6.3M|31ms",
+      "name": "🐉┃索尼┃高清·ok线路1 |6.5M|84ms",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -112,8 +139,18 @@
       "changeable": 1
     },
     {
+      "key": "tv_back-023_百度",
+      "name": "🎏百度┃采集·ok线路1 |6.2M|273ms",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "tv_back-023_csp_非凡资源",
-      "name": "🥗┃非凡┃资源·ok线路1 |6.1M|152ms",
+      "name": "🥗┃非凡┃资源·ok线路1 |5.9M|396ms",
       "type": 1,
       "api": "http://ffzy1.tv/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -151,7 +188,7 @@
     },
     {
       "key": "tv_back-012_feifan",
-      "name": "🍀┃非凡┃资源·二月红接口 |6.1M|156ms",
+      "name": "🍀┃非凡┃资源·二月红接口 |5.9M|664ms",
       "type": 1,
       "api": "http://ffzy5.tv/api.php/provide/vod",
       "searchable": 1,
@@ -169,18 +206,8 @@
       "changeable": 1
     },
     {
-      "key": "tv_back-023_百度",
-      "name": "🎏百度┃采集·ok线路1 |5.9M|173ms",
-      "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 0,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "tv_pref-007_csp_Czsapp",
-      "name": "🏭厂长·小盒子 |2.2M|753ms",
+      "name": "🏭厂长·小盒子 |2.2M|641ms",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -192,7 +219,7 @@
     },
     {
       "key": "WexAiReBo",
-      "name": "💥热播┃秒播💥 |2.2M|1.1s",
+      "name": "💥热播┃秒播💥 |2.2M|826ms",
       "type": 3,
       "api": "csp_WexAiReBoGuard",
       "searchable": 1,
@@ -200,35 +227,8 @@
       "changeable": 1
     },
     {
-      "key": "tv_back-023_量子资源",
-      "name": "🥑┃量子┃资源·ok线路1 |1.8M|310ms",
-      "type": 1,
-      "api": "https://lzizy1.com/api.php/provide/vod/",
-      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "泰国剧",
-        "台湾剧",
-        "香港剧",
-        "欧美剧",
-        "韩国剧",
-        "日本剧",
-        "动漫",
-        "体育",
-        "剧情片",
-        "动作片",
-        "爱情片",
-        "喜剧片"
-      ],
-      "changeable": 1
-    },
-    {
       "key": "tv_back-023_taopian",
-      "name": "🕹️淘片┃采集·ok线路1 |740K|460ms",
+      "name": "🕹️淘片┃采集·ok线路1 |963K|420ms",
       "type": 1,
       "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
       "searchable": 1,
@@ -538,7 +538,7 @@
     },
     {
       "key": "WexAiGuaZi",
-      "name": "💥瓜子┃秒播💥 |464K|242ms",
+      "name": "💥瓜子┃秒播💥 |464K|675ms",
       "type": 3,
       "api": "csp_WexAiGuaZiGuard",
       "searchable": 1,
@@ -547,7 +547,7 @@
     },
     {
       "key": "tv_pref-007_csp_Bttwoo",
-      "name": "✌比特·小盒子 |332K|758ms",
+      "name": "✌比特·小盒子 |376K|691ms",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
