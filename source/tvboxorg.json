@@ -2866,16 +2866,6 @@
       }
     },
     {
-      "name": "-zui-",
-      "type": 0,
-      "url": "https://jx.zui.cm/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    },
-    {
       "name": "巧技二",
       "type": 1,
       "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
@@ -2902,6 +2892,16 @@
         ],
         "header": {
           "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "-zui-",
+      "type": 0,
+      "url": "https://jx.zui.cm/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
         }
       }
     }
@@ -2993,23 +2993,6 @@
       "ua": "okHttp/Mod-1.5.0.0"
     },
     {
-      "name": "平台直播",
-      "type": 0,
-      "url": "http://118.89.172.248:8025/jar/zb.php",
-      "playerType": 1
-    },
-    {
-      "name": "Guovin",
-      "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u"
-    },
-    {
-      "name": "港澳台",
-      "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk",
-      "playerType": 1
-    },
-    {
       "name": "24live",
       "type": 0,
       "url": "https://urlzf.zone.id/iptv-api/output/user_result.m3u",
@@ -3057,6 +3040,23 @@
       "name": "16万•MV",
       "type": 0,
       "url": "https://gh.tryxd.cn/raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt"
+    },
+    {
+      "name": "平台直播",
+      "type": 0,
+      "url": "http://118.89.172.248:8025/jar/zb.php",
+      "playerType": 1
+    },
+    {
+      "name": "Guovin",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u"
+    },
+    {
+      "name": "港澳台",
+      "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk",
+      "playerType": 1
     }
   ],
   "homepage": "https://www.tvbox.org/",
