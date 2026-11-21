@@ -145,7 +145,7 @@
     },
     {
       "key": "csp_Gz360",
-      "name": "🍉┃瓜子┃影视 |379K|1.4s",
+      "name": "🍉┃瓜子┃影视 |464K|613ms",
       "type": 3,
       "api": "csp_Gz360",
       "playerType": 2,
@@ -155,7 +155,7 @@
     },
     {
       "key": "csp_Jpys",
-      "name": "🥇️┃金牌┃影视 |158K|3.5s",
+      "name": "🥇️┃金牌┃影视 |203K|4.4s",
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com",
@@ -192,18 +192,6 @@
       "ext": "https://shdy5.us",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "厂长",
-      "name": "🏭┃厂长┃影视 |0",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.4kcz.com",
       "changeable": 1
     },
     {
@@ -681,7 +669,7 @@
   ],
   "rules": [
     {
-      "name": "♻️量非",
+      "name": "??量非",
       "hosts": [
         "lz",
         "vip.lz",
@@ -697,7 +685,7 @@
       ]
     },
     {
-      "name": "♻️索尼",
+      "name": "??索尼",
       "hosts": [
         "suonizy",
         "qrssv.com"
@@ -708,7 +696,7 @@
       ]
     },
     {
-      "name": "♻️乐视",
+      "name": "??乐视",
       "hosts": [
         "leshiyun"
       ],
@@ -717,7 +705,7 @@
       ]
     },
     {
-      "name": "♻️优质",
+      "name": "??优质",
       "hosts": [
         "yzzy",
         "playback"
@@ -730,7 +718,7 @@
       ]
     },
     {
-      "name": "♻️快看",
+      "name": "??快看",
       "hosts": [
         "kuaikan",
         "vip.kuaikan"
@@ -742,7 +730,7 @@
       ]
     },
     {
-      "name": "♻️360",
+      "name": "??360",
       "hosts": [
         "lyhuicheng"
       ],
@@ -752,7 +740,7 @@
       ]
     },
     {
-      "name": "♻️开源棋牌",
+      "name": "??开源棋牌",
       "hosts": [
         "askzycdn",
         "jkunbf",
@@ -765,7 +753,7 @@
       ]
     },
     {
-      "name": "♻️暴风",
+      "name": "??暴风",
       "hosts": [
         "bfengbf.com",
         "bfzy",
@@ -777,7 +765,7 @@
       ]
     },
     {
-      "name": "♻️农民",
+      "name": "??农民",
       "hosts": [
         "toutiaovod.com"
       ],
@@ -786,7 +774,7 @@
       ]
     },
     {
-      "name": "♻️火山",
+      "name": "??火山",
       "hosts": [
         "huoshan.com"
       ],
@@ -795,7 +783,7 @@
       ]
     },
     {
-      "name": "♻️抖音",
+      "name": "??抖音",
       "hosts": [
         "douyin.com"
       ],
@@ -804,7 +792,7 @@
       ]
     },
     {
-      "name": "♻️磁力",
+      "name": "??磁力",
       "hosts": [
         "magnet"
       ],
@@ -815,7 +803,7 @@
       ]
     },
     {
-      "name": "♻️饭团点击",
+      "name": "??饭团点击",
       "hosts": [
         "dadagui",
         "freeok",
@@ -826,7 +814,7 @@
       ]
     },
     {
-      "name": "♻️毛驴点击",
+      "name": "??毛驴点击",
       "hosts": [
         "www.maolvys.com"
       ],
