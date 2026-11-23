@@ -1,20 +1,10 @@
 {
-  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/9c6448af8eb6fb1fc59b32c0f1ade9f9.jpg;md5;33ff9fba113101e9eba7c3d6f40314b7",
+  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/b22fd2d677a89337d8733fc1d3f2a581.jpg;md5;59a6b4afe46139a3a50d4f19b6137091",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
-      "key": "点我切源",
-      "name": "豆豆┃片单 <Fix所有>",
-      "type": 3,
-      "api": "csp_DouDouGuard",
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "热播",
-      "name": "📺热播┃多线 |2.2M|1.1s",
+      "name": "📺热播┃多线 |2.2M|603ms",
       "type": 3,
       "api": "csp_AppTTGuard",
       "timeout": 10,
@@ -25,7 +15,7 @@
     },
     {
       "key": "厂长",
-      "name": "📔厂长┃不卡 |2.2M|1.5s",
+      "name": "📔厂长┃不卡 |2.2M|1.1s",
       "type": 3,
       "api": "csp_NewCzGuard",
       "timeout": 10,
@@ -36,7 +26,7 @@
     },
     {
       "key": "奥特",
-      "name": "🏝奥特┃多线 |750K|705ms",
+      "name": "🏝奥特┃多线 |1.6M|468ms",
       "type": 3,
       "api": "csp_AueteGuard",
       "timeout": 10,
@@ -143,7 +133,7 @@
     },
     {
       "key": "瓜子",
-      "name": "👀瓜子┃不卡 |464K|321ms",
+      "name": "👀瓜子┃不卡 |464K|185ms",
       "type": 3,
       "api": "csp_AppgzGuard",
       "timeout": 15,
@@ -153,7 +143,7 @@
     },
     {
       "key": "比特",
-      "name": "🍄比特┃不卡 |317K|784ms",
+      "name": "🍄比特┃不卡 |395K|623ms",
       "type": 3,
       "api": "csp_BttwooGuard",
       "timeout": 10,
@@ -486,6 +476,16 @@
       "type": 3,
       "api": "csp_XPathGuard",
       "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "点我切源",
+      "name": "豆豆┃片单 <修复扫码Bug> |盘",
+      "type": 3,
+      "api": "csp_DouDouGuard",
+      "indexs": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
     },

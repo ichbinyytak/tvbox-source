@@ -21,21 +21,8 @@
       "changeable": 1
     },
     {
-      "key": "Rebo",
-      "name": "🍓┆热播┆APP |2.2M|475ms",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.rbotv.cn"
-      },
-      "changeable": 1
-    },
-    {
       "key": "CZ",
-      "name": "🏭┆厂长┆影视 |2.2M|476ms",
+      "name": "🏭┆厂长┆影视 |2.2M|211ms",
       "type": 3,
       "api": "csp_CZ",
       "searchable": 1,
@@ -57,48 +44,17 @@
       "changeable": 1
     },
     {
-      "key": "FourK",
-      "name": "🌔┆望舒┆4K",
+      "key": "Rebo",
+      "name": "🍓┆热播┆APP |2.2M|214ms",
       "type": 3,
-      "api": "csp_App88",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "AV3cDzESDsTIWJ1e0GZQUmOQKfNDMpFhWqSa4cvJKZlVZDKPOBzRbNq+YsDIeVJfxJIlcvy9/9MMJLQR9Yn4P+ABIUU4LXEL+WXhRFcPEDBpGlxkMDqSvKpFJvmPoKC/IA==",
-      "changeable": 1
-    },
-    {
-      "key": "SanJiaoZhou",
-      "name": "🌥️┆云归┆4K",
-      "type": 3,
-      "api": "csp_App88",
+      "api": "csp_AppRJ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "AYw+57aVirMpHulq+pwyxEX1UGkmWBETcX32Yp6ZkkvTAnu06xitsJuZdymTwZ70YgSiX+Ga4XisFPKK2Pv4ERJ/y0iGIy9FkpAAVFLF8ltrlb/FEg6CdBcfjWgMUXsibWacZGVzOWczRslQaFUHS2M=",
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      },
       "changeable": 1
-    },
-    {
-      "key": "Luck",
-      "name": "🍀┆青禾┆4K",
-      "type": 3,
-      "api": "csp_Luck",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "AU/L2JHZ0SsU94LbxPA3emscXG7f5FFdKYn8MSdt/5Uktri/nmW4Z3nNYavRogzuAlOkPfPVG27z4OAdO+fyFhc=",
-      "changeable": 1
-    },
-    {
-      "key": "余温",
-      "name": "🧣┆余温┆4K",
-      "type": 3,
-      "api": "csp_App88",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "AQ97WpArbhKNw60bLglQNeYUtD0UDI1f65KexQmYfUaCO+V3+a8GbSmYodUtb12Q0LQHfv6KdocBICzIhrySNikxI0hWUixd5n/optwTcVcU"
     },
     {
       "key": "夜猫",
@@ -121,16 +77,6 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "Ad2ohQzN3yKRQEHDYDkK1JK8CL3Se9zIBI5Q4VBRKeR6pIWjoaXOktd6l4RWPQi46M/xcnQCEN8R1PIqXGBDZPds5tolkQ4pUoWAaOKxXmPk"
-    },
-    {
-      "key": "zhiqiu",
-      "name": "☘️┆听风┆知秋",
-      "type": 3,
-      "api": "csp_zhiqiu",
-      "searchable": 1,
-      "ext": "ATuDzsbtXNA1mpnRWIpcUB8B2+hY3LMP/3Z1xXurADboE8cAKUOjUN6TXimsApauJg/X7yLotzgNXhCsjAn5wuQ=",
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "fishhxq",
@@ -306,7 +252,7 @@
     },
     {
       "key": "Guazi",
-      "name": "🍉┆瓜子┆影视 |464K|317ms",
+      "name": "🍉┆瓜子┆影视 |464K|156ms",
       "type": 3,
       "api": "csp_Guazi",
       "searchable": 1,
@@ -315,7 +261,7 @@
     },
     {
       "key": "Wwys",
-      "name": "🍙┆糯米┆影视 |206K|947ms",
+      "name": "🍙┆糯米┆影视 |193K|1.8s",
       "type": 3,
       "api": "csp_Wwys",
       "searchable": 1,
