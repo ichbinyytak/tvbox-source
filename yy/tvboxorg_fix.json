@@ -1,5 +1,5 @@
 {
-  "spider": "http://oss4liview.moji.com/thd_file/2026/11/21/2eca9460132ba7940a5098877c187e1a.jpg;md5;b7e2f9d16ff81dfe13853c6fff2e2b22",
+  "spider": "http://oss4liview.moji.com/thd_file/2026/11/23/98f6124357b913bcb47d81339ca7725a.jpg;md5;924547ec8b148216d7636beb3213b60e",
   "wallpaper": "https://www.loliapi.com/acg/",
   "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
   "sites": [
@@ -29,7 +29,7 @@
     },
     {
       "key": "tv_pref-007_csp_Auete",
-      "name": "🐼奥特·小盒子 |27.2M|156ms",
+      "name": "🐼奥特·小盒子 |27.2M|256ms",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -40,35 +40,8 @@
       "changeable": 1
     },
     {
-      "key": "tv_back-023_量子资源",
-      "name": "🥑┃量子┃资源·ok线路1 |12.1M|483ms",
-      "type": 1,
-      "api": "https://lzizy1.com/api.php/provide/vod/",
-      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "泰国剧",
-        "台湾剧",
-        "香港剧",
-        "欧美剧",
-        "韩国剧",
-        "日本剧",
-        "动漫",
-        "体育",
-        "剧情片",
-        "动作片",
-        "爱情片",
-        "喜剧片"
-      ],
-      "changeable": 1
-    },
-    {
       "key": "tv_back-023_火狐",
-      "name": "🦊火狐采集·ok线路1 |7.1M|73ms",
+      "name": "🦊火狐采集·ok线路1 |6.9M|32ms",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -103,7 +76,7 @@
     },
     {
       "key": "tv_back-023_csp_SNzy",
-      "name": "🐉┃索尼┃高清·ok线路1 |6.6M|114ms",
+      "name": "🐉┃索尼┃高清·ok线路1 |6.6M|32ms",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -140,7 +113,7 @@
     },
     {
       "key": "tv_back-023_百度",
-      "name": "🎏百度┃采集·ok线路1 |6.2M|184ms",
+      "name": "🎏百度┃采集·ok线路1 |6.4M|230ms",
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -149,27 +122,8 @@
       "changeable": 1
     },
     {
-      "key": "tv_back-026_feifan",
-      "name": "🍀┃非凡┃资源·1号VIP源 |5.7M|106ms",
-      "type": 1,
-      "api": "http://ffzy5.tv/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "韩国剧",
-        "欧美剧",
-        "台湾剧",
-        "战争片",
-        "国产剧",
-        "大陆综艺"
-      ],
-      "hide": 1,
-      "changeable": 1
-    },
-    {
       "key": "tv_back-023_csp_非凡资源",
-      "name": "🥗┃非凡┃资源·ok线路1 |5.7M|769ms",
+      "name": "🥗┃非凡┃资源·ok线路1 |6.1M|133ms",
       "type": 1,
       "api": "http://ffzy1.tv/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -206,17 +160,27 @@
       "changeable": 1
     },
     {
-      "key": "WexAiReBo",
-      "name": "💥热播┃秒播💥 |2.2M|361ms",
-      "type": 3,
-      "api": "csp_WexAiReBoGuard",
+      "key": "tv_back-026_feifan",
+      "name": "🍀┃非凡┃资源·1号VIP源 |6.1M|599ms",
+      "type": 1,
+      "api": "http://ffzy5.tv/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "战争片",
+        "国产剧",
+        "大陆综艺"
+      ],
+      "hide": 1,
       "changeable": 1
     },
     {
       "key": "tv_pref-007_csp_Czsapp",
-      "name": "🏭厂长·小盒子 |2.2M|431ms",
+      "name": "🏭厂长·小盒子 |2.2M|478ms",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -227,8 +191,44 @@
       "changeable": 1
     },
     {
+      "key": "WexAiReBo",
+      "name": "💥热播┃秒播💥 |2.2M|747ms",
+      "type": 3,
+      "api": "csp_WexAiReBoGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "tv_back-023_量子资源",
+      "name": "🥑┃量子┃资源·ok线路1 |2.0M|313ms",
+      "type": 1,
+      "api": "https://lzizy1.com/api.php/provide/vod/",
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片"
+      ],
+      "changeable": 1
+    },
+    {
       "key": "tv_back-023_taopian",
-      "name": "🕹️淘片┃采集·ok线路1 |1.3M|381ms",
+      "name": "🕹️淘片┃采集·ok线路1 |718K|437ms",
       "type": 1,
       "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
       "searchable": 1,
@@ -538,7 +538,7 @@
     },
     {
       "key": "WexAiGuaZi",
-      "name": "💥瓜子┃秒播💥 |464K|566ms",
+      "name": "💥瓜子┃秒播💥 |464K|319ms",
       "type": 3,
       "api": "csp_WexAiGuaZiGuard",
       "searchable": 1,
@@ -547,7 +547,7 @@
     },
     {
       "key": "tv_pref-007_csp_Bttwoo",
-      "name": "✌比特·小盒子 |384K|642ms",
+      "name": "✌比特·小盒子 |284K|857ms",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -1464,15 +1464,6 @@
       "changeable": 0
     },
     {
-      "key": "AiNewShanDian",
-      "name": "💓闪电┃4K💓 |盘",
-      "type": 3,
-      "api": "csp_AiNewShanDianGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
       "key": "AiNewJuTou",
       "name": "💓剧透┃4K💓 |盘",
       "type": 3,
@@ -1772,6 +1763,17 @@
       "filterable": 1,
       "ext": "token;desc",
       "jar": "http://home.jundie.top:81/jar/top98_1.jar"
+    },
+    {
+      "key": "tv_back-026_hjzhencai",
+      "name": "💖┃花卷┃4K💖·1号VIP源 |盘",
+      "type": 3,
+      "api": "csp_HjZhenCai",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\"site\":\"https://www.hjzhencai.top,https://www.huanjuanwp.shop,https://www.aihuajuan.top\"}",
+      "jar": "http://118.89.172.248:8025/jar/tan.php"
     },
     {
       "key": "tv_back-017_玩偶",

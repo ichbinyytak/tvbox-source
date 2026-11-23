@@ -1,5 +1,5 @@
 {
-  "spider": "http://118.89.172.248:8025/jar/tan2.php",
+  "spider": "http://118.89.172.248:8025/jar/tan.php",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "lives": [
     {
@@ -32,7 +32,7 @@
     },
     {
       "key": "feifan",
-      "name": "🍀┃非凡┃资源 |5.8M|550ms",
+      "name": "🍀┃非凡┃资源 |6.1M|127ms",
       "type": 1,
       "api": "http://ffzy5.tv/api.php/provide/vod",
       "searchable": 1,
@@ -51,7 +51,7 @@
     },
     {
       "key": "AppRJ",
-      "name": "🍂┃热播┃高清 |2.2M|620ms",
+      "name": "🍂┃热播┃高清 |2.2M|1.5s",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -64,16 +64,6 @@
           "CO4K"
         ]
       },
-      "changeable": 1
-    },
-    {
-      "key": "Gz360",
-      "name": "🍂┃瓜子┃秒播 |549K|2.0s",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
       "changeable": 1
     },
     {
@@ -213,6 +203,16 @@
       "changeable": 1
     },
     {
+      "key": "Gz360",
+      "name": "🍂┃瓜子┃秒播 |234K|1.2s",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "Jianpian",
       "name": "🍂┃荐片┃1080P |磁力",
       "type": 3,
@@ -328,6 +328,27 @@
       "searchable": 1,
       "filterable": 1,
       "ext": "{\"site\":[\"http://118.89.172.248:22776\"],\"name\":\"网盘CMS\"}"
+    },
+    {
+      "key": "hjzhencai",
+      "name": "💖┃花卷┃4K💖 |盘",
+      "type": 3,
+      "api": "csp_HjZhenCai",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\"site\":\"https://www.hjzhencai.top,https://www.huanjuanwp.shop,https://www.aihuajuan.top\"}"
+    },
+    {
+      "key": "csp_Wogg",
+      "name": "💖┃玩偶┃4K💖 |盘",
+      "type": 3,
+      "api": "csp_WoggSite",
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 15,
+      "changeable": 0,
+      "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cud29nZy5saXZlIiwKICAgICJodHRwczovL3dvZ2dwYW4uMzMzMjMyLnh5ei8iLAogICAgImh0dHBzOi8vd3d3LndvZ2cubmV0IgogIF0sCiAgInRva2VuIjogIiIsCiAgInVjQ29va2llIjogIiIsCiAgInF1YXJrQ29va2llIjogIiIKfQ=="
     },
     {
       "key": "MuouPanCms",

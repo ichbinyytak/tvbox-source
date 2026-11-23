@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar;md5;16e7a6d79af111b1a67a04769e877fb7",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar;md5;efdb2c1d9a2e8c26e5a74ba5f53dfc56",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
   "sites": [
@@ -15,7 +15,7 @@
     },
     {
       "key": "热播影视",
-      "name": "热播 • APP |2.2M|546ms",
+      "name": "热播 • APP |2.2M|709ms",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -384,7 +384,7 @@
     },
     {
       "key": "瓜子影视",
-      "name": "瓜子 • 影视 |464K|433ms",
+      "name": "瓜子 • 影视 |464K|294ms",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -393,7 +393,7 @@
     },
     {
       "key": "旺旺影视",
-      "name": "旺旺 • 影视 |221K|1.3s",
+      "name": "旺旺 • 影视 |221K|879ms",
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200",

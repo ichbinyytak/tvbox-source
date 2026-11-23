@@ -1,10 +1,10 @@
 {
-  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/58e1fe36b5683e725729d0addfb5a9e3.jpg;md5;0ce2eae734b7eff47763f3f9e1d8525b",
+  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/9c6448af8eb6fb1fc59b32c0f1ade9f9.jpg;md5;33ff9fba113101e9eba7c3d6f40314b7",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
       "key": "点我切源",
-      "name": "豆豆┃片单 <fix+升级弹幕>",
+      "name": "豆豆┃片单 <Fix所有>",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -14,7 +14,7 @@
     },
     {
       "key": "热播",
-      "name": "📺热播┃多线 |2.2M|722ms",
+      "name": "📺热播┃多线 |2.2M|1.1s",
       "type": 3,
       "api": "csp_AppTTGuard",
       "timeout": 10,
@@ -25,7 +25,7 @@
     },
     {
       "key": "厂长",
-      "name": "📔厂长┃不卡 |2.2M|838ms",
+      "name": "📔厂长┃不卡 |2.2M|1.5s",
       "type": 3,
       "api": "csp_NewCzGuard",
       "timeout": 10,
@@ -36,7 +36,7 @@
     },
     {
       "key": "奥特",
-      "name": "🏝奥特┃多线 |971K|699ms",
+      "name": "🏝奥特┃多线 |750K|705ms",
       "type": 3,
       "api": "csp_AueteGuard",
       "timeout": 10,
@@ -143,7 +143,7 @@
     },
     {
       "key": "瓜子",
-      "name": "👀瓜子┃不卡 |464K|368ms",
+      "name": "👀瓜子┃不卡 |464K|321ms",
       "type": 3,
       "api": "csp_AppgzGuard",
       "timeout": 15,
@@ -153,7 +153,7 @@
     },
     {
       "key": "比特",
-      "name": "🍄比特┃不卡 |387K|649ms",
+      "name": "🍄比特┃不卡 |317K|784ms",
       "type": 3,
       "api": "csp_BttwooGuard",
       "timeout": 10,
@@ -200,7 +200,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0="
+      "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4jq3i8iepe3AAlFJlcJ8nEyo7U0Zv5Ly99uvDeRbsAQwngm4DhwCew4GZ2NpO2FWja5GbiLw/2+VyOxmwVkfRMWv532AlCkEM0DUsYlqgFBirI7micJVqtVVd5RVO+OjoFt49RYjdpcwCGzZNf2zleAXOBerYWUBBYiHAcv4i9IkhbqtQRBgq93D8T/VUpyZg15mh4icjAzq6HJ3fKftkmNq95YguHZLzKbGEDahyxvIgNARifYJxRobH3iyvXchGcLgar0MU56i0oTeFRc6ThjWvJdYRkG14ULZ/+nBcQncXy23jGsvADOGlYoPtpPQAOccjnT9Q0UrQssrFfhyMAynhd5nlPX67OibRK1YBs1pV05B3ICXao4njVgOB+AbpZJjwAw7tkjLocnQhq0w5RxREH/1j8YpssxtJO1ADlPtR7A3GILhxMcEc1KgJy+LBzmZL7G+vYG3T++qkSKO6V2QFdgRLTCpSHJ"
     },
     {
       "key": "风云",
