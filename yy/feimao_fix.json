@@ -26,6 +26,16 @@
       "quickSearch": 1
     },
     {
+      "key": "csp_Gz360",
+      "name": "🍉┃瓜子┃影视 |713K|1.4s",
+      "type": 3,
+      "api": "csp_Gz360",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "干饭",
       "name": "🍚┃干饭┃APP",
       "type": 3,
@@ -144,18 +154,8 @@
       "changeable": 1
     },
     {
-      "key": "csp_Gz360",
-      "name": "🍉┃瓜子┃影视 |464K|181ms",
-      "type": 3,
-      "api": "csp_Gz360",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "csp_Jpys",
-      "name": "🥇️┃金牌┃影视 |202K|3.2s",
+      "name": "🥇️┃金牌┃影视 |80K|2.0s",
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com",

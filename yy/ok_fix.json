@@ -10,18 +10,18 @@
       "changeable": 1
     },
     {
-      "key": "旺旺",
-      "name": "旺旺 | 采集 |35.9M|439ms",
-      "type": 1,
-      "api": "https://api.wwzy.tv/api.php/provide/vod/",
-      "playerType": 1,
+      "key": "py_hongguo",
+      "name": "红果[py] |61.9M|67ms",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/hongguo.py",
       "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
     },
     {
       "key": "py_maple",
-      "name": "枫叶[py] |27.8M|66ms",
+      "name": "枫叶[py] |55.0M|97ms",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/maple.py",
       "searchable": 1,
@@ -31,17 +31,61 @@
       "changeable": 1
     },
     {
-      "key": "py_8kvod",
-      "name": "酷客[py] |27.3M|41ms",
+      "key": "py_Asyouwish",
+      "name": "如意[py] |36.2M|96ms",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/8kvod.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/ruyishipin.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "旺旺",
+      "name": "旺旺 | 采集 |35.8M|564ms",
+      "type": 1,
+      "api": "https://api.wwzy.tv/api.php/provide/vod/",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "py_wbbb",
+      "name": "歪比巴卜[py] |28.3M|65ms",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/wbbb.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "py_xlys",
+      "name": "雪落影视[py] |28.1M|34ms",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/xlys.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://v.xl.in.ua",
+        "pageFmt": ""
+      },
+      "changeable": 1
+    },
+    {
+      "key": "py_juok3",
+      "name": "剧OK[py] |28.0M|70ms",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/juok3.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
     {
       "key": "py_aigua",
-      "name": "爱瓜TV[py] |24.9M|42ms",
+      "name": "爱瓜TV[py] |24.9M|62ms",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/aigua.py",
       "searchable": 1,
@@ -52,28 +96,8 @@
       "changeable": 1
     },
     {
-      "key": "py_wbbb",
-      "name": "歪比巴卜[py] |24.8M|47ms",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/wbbb.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "py_Asyouwish",
-      "name": "如意[py] |24.8M|41ms",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/ruyishipin.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
       "key": "py_pufferfish",
-      "name": "河豚[py] |24.2M|46ms",
+      "name": "河豚[py] |24.2M|44ms",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/pufferfish.py",
       "searchable": 1,
@@ -81,78 +105,8 @@
       "changeable": 1
     },
     {
-      "key": "py_guazi",
-      "name": "瓜子[py] |22.7M|42ms",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/guazi.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {},
-      "changeable": 1
-    },
-    {
-      "key": "py_huavod",
-      "name": "华视[py] |21.3M|47ms",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/huavod.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "py_oule",
-      "name": "欧乐影院[py] |19.9M|81ms",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/oule.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "py_duoduo",
-      "name": "多多影视[py] |19.5M|43ms",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/duoduo.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "py_apples",
-      "name": "苹果[py] |18.9M|42ms",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/apples.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "py_hongguo",
-      "name": "红果[py] |18.8M|62ms",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/hongguo.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "py_金牌影院",
-      "name": "金牌影院[py] |17.9M|49ms",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/goldmedal.py",
-      "order_num": 5,
-      "ext": "",
-      "changeable": 1
-    },
-    {
       "key": "py_ysttv",
-      "name": "影视天堂[py] |17.6M|49ms",
+      "name": "影视天堂[py] |24.0M|67ms",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/ysttv.py",
       "searchable": 1,
@@ -166,32 +120,48 @@
       "changeable": 1
     },
     {
-      "key": "py_douban",
-      "name": "豆瓣[py] |17.2M|42ms",
+      "key": "py_huavod",
+      "name": "华视[py] |21.3M|53ms",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/douban.py",
-      "changeable": 1,
-      "searchable": 1,
-      "filterable": 0,
-      "quickSearch": 1
-    },
-    {
-      "key": "py_xlys",
-      "name": "雪落影视[py] |17.0M|82ms",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/xlys.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/huavod.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "host": "https://v.xl.in.ua",
-        "pageFmt": ""
-      },
+      "changeable": 1
+    },
+    {
+      "key": "py_duoduo",
+      "name": "多多影视[py] |19.5M|86ms",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/duoduo.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "py_apples",
+      "name": "苹果[py] |18.9M|122ms",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/apples.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "py_金牌影院",
+      "name": "金牌影院[py] |17.9M|46ms",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/goldmedal.py",
+      "order_num": 5,
+      "ext": "",
       "changeable": 1
     },
     {
       "key": "py_bubuzhuiju",
-      "name": "布布追剧[py] |16.3M|59ms",
+      "name": "布布追剧[py] |16.3M|88ms",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/bubuzhuiju.py",
       "searchable": 1,
@@ -201,7 +171,7 @@
     },
     {
       "key": "py_kkys",
-      "name": "可可追剧[py] |15.9M|47ms",
+      "name": "可可追剧[py] |15.9M|33ms",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/kkys.py",
       "searchable": 1,
@@ -211,7 +181,7 @@
     },
     {
       "key": "py_ppnix",
-      "name": "PPnix[py] |14.8M|38ms",
+      "name": "PPnix[py] |14.8M|54ms",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/ppnix.py",
       "searchable": 1,
@@ -220,7 +190,7 @@
     },
     {
       "key": "暴風",
-      "name": "暴風 | 采集 |14.1M|30ms",
+      "name": "暴風 | 采集 |13.5M|30ms",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -228,27 +198,8 @@
       "quickSearch": 1
     },
     {
-      "key": "py_juzong",
-      "name": "剧踪[py] |13.0M|47ms",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/juzong.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "py_juok3",
-      "name": "剧OK[py] |13.0M|47ms",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/juok3.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "py_shanzha",
-      "name": "山楂影视[py] |12.9M|49ms",
+      "name": "山楂影视[py] |12.9M|68ms",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/shanzha.py",
       "searchable": 1,
@@ -258,8 +209,17 @@
       "changeable": 1
     },
     {
+      "key": "py_oule",
+      "name": "欧乐影院[py] |12.7M|66ms",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/oule.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "py_dsystv",
-      "name": "袋鼠影视[py] |12.5M|49ms",
+      "name": "袋鼠影视[py] |12.5M|64ms",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/dsystv.py",
       "searchable": 1,
@@ -272,7 +232,7 @@
     },
     {
       "key": "py_YYMP3",
-      "name": "YYMP3[py] |11.7M|39ms",
+      "name": "YYMP3[py] |11.7M|52ms",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/yymp3.py",
       "searchable": 1,
@@ -281,7 +241,7 @@
     },
     {
       "key": "py_dantatv",
-      "name": "蛋挞影视[py] |11.0M|49ms",
+      "name": "蛋挞影视[py] |11.0M|95ms",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/dantatv.py",
       "searchable": 1,
@@ -290,7 +250,7 @@
     },
     {
       "key": "py_saohuo",
-      "name": "骚火影视[py] |9.8M|56ms",
+      "name": "骚火影视[py] |9.8M|81ms",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/saohuo.py",
       "searchable": 1,
@@ -299,17 +259,48 @@
       "filterable": 1
     },
     {
-      "key": "优质",
-      "name": "优质 | 采集 |8.1M|474ms",
-      "type": 1,
-      "api": "https://api.yyzy-tv.vip/inc/apijson.php",
-      "quickSearch": 1,
+      "key": "py_8kvod",
+      "name": "酷客[py] |9.4M|43ms",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/8kvod.py",
       "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "py_juzong",
+      "name": "剧踪[py] |9.0M|59ms",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/juzong.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "py_douban",
+      "name": "豆瓣[py] |9.0M|87ms",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/douban.py",
+      "changeable": 1,
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1
+    },
+    {
+      "key": "py_guazi",
+      "name": "瓜子[py] |8.5M|46ms",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/guazi.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {},
       "changeable": 1
     },
     {
       "key": "py_guowaiju",
-      "name": "国外剧情[py] |7.8M|41ms",
+      "name": "国外剧情[py] |7.8M|36ms",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/guowaiju.py",
       "quickSearch": 1,
@@ -319,7 +310,7 @@
     },
     {
       "key": "艾旦",
-      "name": "艾旦 | 采集 |7.7M|519ms",
+      "name": "艾旦 | 采集 |7.7M|1.6s",
       "type": 1,
       "ext": {
         "proxy": "proxy"
@@ -331,7 +322,7 @@
     },
     {
       "key": "金鹰",
-      "name": "金鹰 | 采集 |7.3M|37ms",
+      "name": "金鹰 | 采集 |7.0M|28ms",
       "type": 1,
       "api": "https://jyzyapi.com/api.php/provide/vod/",
       "quickSearch": 1,
@@ -340,7 +331,7 @@
     },
     {
       "key": "新浪",
-      "name": "新浪 | 采集 |7.2M|216ms",
+      "name": "新浪 | 采集 |6.8M|179ms",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "quickSearch": 1,
@@ -348,47 +339,11 @@
       "changeable": 1
     },
     {
-      "key": "无尽",
-      "name": "无尽 | 采集 |6.9M|128ms",
-      "type": 1,
-      "api": "https://api.wujinapi.net/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "ikun",
-      "name": "ikun | 采集 |6.8M|136ms",
+      "name": "ikun | 采集 |6.7M|208ms",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/",
       "playerType": 1,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "索尼",
-      "name": "索尼 | 采集  |6.8M|39ms",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "速播",
-      "name": "速播 | 采集 |6.7M|372ms",
-      "type": 1,
-      "api": "https://subocaiji.com/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "360",
-      "name": "360 | 采集 |6.7M|1.3s",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1
@@ -404,8 +359,26 @@
       "changeable": 1
     },
     {
+      "key": "360",
+      "name": "360 | 采集 |6.6M|455ms",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "无尽",
+      "name": "无尽 | 采集 |6.4M|225ms",
+      "type": 1,
+      "api": "https://api.wujinapi.net/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "py_jieyingshi",
-      "name": "界影视[py] |6.4M|81ms",
+      "name": "界影视[py] |6.4M|39ms",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/jieyingshi.py",
       "searchable": 1,
@@ -414,8 +387,26 @@
       "changeable": 1
     },
     {
+      "key": "索尼",
+      "name": "索尼 | 采集  |6.3M|69ms",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "速播",
+      "name": "速播 | 采集 |6.3M|411ms",
+      "type": 1,
+      "api": "https://subocaiji.com/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "非凡",
-      "name": "非凡 | 采集 |5.9M|90ms",
+      "name": "非凡 | 采集 |5.7M|462ms",
       "type": 1,
       "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
       "quickSearch": 1,
@@ -423,27 +414,8 @@
       "changeable": 1
     },
     {
-      "key": "py_yangguang",
-      "name": "阳光影视[py] |5.2M|42ms",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/yangguang.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "py_4KAV",
-      "name": "4KAV[py] |5.0M|49ms",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/4KAV.py",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
       "key": "电影天堂",
-      "name": "天堂 | 采集 |4.8M|72ms",
+      "name": "天堂 | 采集 |5.7M|237ms",
       "type": 1,
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -452,12 +424,49 @@
       "changeable": 1
     },
     {
+      "key": "py_yangguang",
+      "name": "阳光影视[py] |5.2M|56ms",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/yangguang.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "py_4KAV",
+      "name": "4KAV[py] |5.0M|68ms",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/py/4KAV.py",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
       "key": "黑木耳",
-      "name": "黑木耳 | 采集 |2.9M|101ms",
+      "name": "黑木耳 | 采集 |2.9M|80ms",
       "type": 1,
       "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
       "quickSearch": 1,
       "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "优质",
+      "name": "优质 | 采集 |2.4M|414ms",
+      "type": 1,
+      "api": "https://api.yyzy-tv.vip/inc/apijson.php",
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "创享",
+      "name": "创享 | 采集 |1.5M|1.7s",
+      "type": 1,
+      "api": "https://ys.cxkjg.cn/api/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
       "changeable": 1
     },
     {
@@ -518,7 +527,7 @@
     },
     {
       "key": "量子",
-      "name": "量子 | 采集 |481K|664ms",
+      "name": "量子 | 采集 |495K|745ms",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "quickSearch": 1,
@@ -747,15 +756,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/js/s/奇迹.json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "创享",
-      "name": "创享 | 采集 |0",
-      "type": 1,
-      "api": "https://ys.cxkjg.cn/api/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
