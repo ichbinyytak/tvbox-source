@@ -29,7 +29,7 @@
     },
     {
       "key": "tv_pref-007_csp_Auete",
-      "name": "🐼奥特·小盒子 |27.2M|162ms",
+      "name": "🐼奥特·小盒子 |27.2M|257ms",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -40,8 +40,35 @@
       "changeable": 1
     },
     {
+      "key": "tv_back-023_量子资源",
+      "name": "🥑┃量子┃资源·ok线路1 |13.2M|321ms",
+      "type": 1,
+      "api": "https://lzizy1.com/api.php/provide/vod/",
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片"
+      ],
+      "changeable": 1
+    },
+    {
       "key": "tv_back-023_火狐",
-      "name": "🦊火狐采集·ok线路1 |6.8M|60ms",
+      "name": "🦊火狐采集·ok线路1 |7.5M|54ms",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -76,7 +103,7 @@
     },
     {
       "key": "tv_back-023_csp_SNzy",
-      "name": "🐉┃索尼┃高清·ok线路1 |6.5M|86ms",
+      "name": "🐉┃索尼┃高清·ok线路1 |6.7M|61ms",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -112,18 +139,8 @@
       "changeable": 1
     },
     {
-      "key": "tv_back-023_百度",
-      "name": "🎏百度┃采集·ok线路1 |6.1M|208ms",
-      "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 0,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "tv_back-026_feifan",
-      "name": "🍀┃非凡┃资源·1号VIP源 |5.9M|595ms",
+      "name": "🍀┃非凡┃资源·1号VIP源 |5.8M|149ms",
       "type": 1,
       "api": "http://ffzy5.tv/api.php/provide/vod",
       "searchable": 1,
@@ -142,7 +159,7 @@
     },
     {
       "key": "tv_back-023_csp_非凡资源",
-      "name": "🥗┃非凡┃资源·ok线路1 |5.9M|739ms",
+      "name": "🥗┃非凡┃资源·ok线路1 |5.8M|175ms",
       "type": 1,
       "api": "http://ffzy1.tv/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -180,7 +197,7 @@
     },
     {
       "key": "tv_pref-007_csp_Czsapp",
-      "name": "🏭厂长·小盒子 |2.2M|447ms",
+      "name": "🏭厂长·小盒子 |2.2M|786ms",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -192,7 +209,7 @@
     },
     {
       "key": "WexAiReBo",
-      "name": "💥热播┃秒播💥 |2.2M|848ms",
+      "name": "💥热播┃秒播💥 |2.2M|1.2s",
       "type": 3,
       "api": "csp_WexAiReBoGuard",
       "searchable": 1,
@@ -200,35 +217,8 @@
       "changeable": 1
     },
     {
-      "key": "tv_back-023_量子资源",
-      "name": "🥑┃量子┃资源·ok线路1 |2.2M|341ms",
-      "type": 1,
-      "api": "https://lzizy1.com/api.php/provide/vod/",
-      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "泰国剧",
-        "台湾剧",
-        "香港剧",
-        "欧美剧",
-        "韩国剧",
-        "日本剧",
-        "动漫",
-        "体育",
-        "剧情片",
-        "动作片",
-        "爱情片",
-        "喜剧片"
-      ],
-      "changeable": 1
-    },
-    {
       "key": "tv_back-023_taopian",
-      "name": "🕹️淘片┃采集·ok线路1 |1.2M|381ms",
+      "name": "🕹️淘片┃采集·ok线路1 |735K|389ms",
       "type": 1,
       "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
       "searchable": 1,
@@ -538,7 +528,7 @@
     },
     {
       "key": "WexAiGuaZi",
-      "name": "💥瓜子┃秒播💥 |464K|45ms",
+      "name": "💥瓜子┃秒播💥 |464K|225ms",
       "type": 3,
       "api": "csp_WexAiGuaZiGuard",
       "searchable": 1,
@@ -547,7 +537,7 @@
     },
     {
       "key": "tv_pref-007_csp_Bttwoo",
-      "name": "✌比特·小盒子 |371K|737ms",
+      "name": "✌比特·小盒子 |331K|739ms",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -788,6 +778,16 @@
         "体育赛事",
         "短剧"
       ]
+    },
+    {
+      "key": "tv_back-023_百度",
+      "name": "🎏百度┃采集·ok线路1 |0",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "賤賤",
