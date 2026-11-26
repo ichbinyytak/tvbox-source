@@ -1,5 +1,5 @@
 {
-  "spider": "http://oss4liview.moji.com/thd_file/2026/11/24/0684202079fbec343ec03f772b72e928.jpg;md5;d773eab0709f62b0077f8112765eb6d2",
+  "spider": "http://oss4liview.moji.com/thd_file/2026/11/26/51ee39d57065aba54aeb3b13ec328da6.jpg;md5;b0f6090aaf39b01168acc99e73950e4c",
   "wallpaper": "https://www.loliapi.com/acg/",
   "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
   "sites": [
@@ -29,7 +29,7 @@
     },
     {
       "key": "tv_pref-007_csp_Auete",
-      "name": "🐼奥特·小盒子 |27.2M|70ms",
+      "name": "🐼奥特·小盒子 |27.2M|42ms",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -41,7 +41,7 @@
     },
     {
       "key": "tv_back-023_量子资源",
-      "name": "🥑┃量子┃资源·ok线路1 |12.2M|399ms",
+      "name": "🥑┃量子┃资源·ok线路1 |12.2M|431ms",
       "type": 1,
       "api": "https://lzizy1.com/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -68,7 +68,7 @@
     },
     {
       "key": "tv_back-023_火狐",
-      "name": "🦊火狐采集·ok线路1 |6.8M|38ms",
+      "name": "🦊火狐采集·ok线路1 |6.7M|46ms",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -103,7 +103,7 @@
     },
     {
       "key": "tv_back-023_csp_SNzy",
-      "name": "🐉┃索尼┃高清·ok线路1 |6.4M|81ms",
+      "name": "🐉┃索尼┃高清·ok线路1 |6.7M|46ms",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -140,7 +140,7 @@
     },
     {
       "key": "tv_back-023_百度",
-      "name": "🎏百度┃采集·ok线路1 |6.1M|98ms",
+      "name": "🎏百度┃采集·ok线路1 |6.0M|99ms",
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -150,7 +150,7 @@
     },
     {
       "key": "tv_back-026_feifan",
-      "name": "🍀┃非凡┃资源·1号VIP源 |5.9M|43ms",
+      "name": "🍀┃非凡┃资源·1号VIP源 |5.6M|631ms",
       "type": 1,
       "api": "http://ffzy5.tv/api.php/provide/vod",
       "searchable": 1,
@@ -168,46 +168,8 @@
       "changeable": 1
     },
     {
-      "key": "tv_back-023_csp_非凡资源",
-      "name": "🥗┃非凡┃资源·ok线路1 |5.9M|640ms",
-      "type": 1,
-      "api": "http://ffzy1.tv/api.php/provide/vod/",
-      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ],
-      "changeable": 1
-    },
-    {
       "key": "tv_back-023_taopian",
-      "name": "🕹️淘片┃采集·ok线路1 |5.3M|136ms",
+      "name": "🕹️淘片┃采集·ok线路1 |3.8M|185ms",
       "type": 1,
       "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
       "searchable": 1,
@@ -248,8 +210,17 @@
       "changeable": 1
     },
     {
+      "key": "WexAiReBo",
+      "name": "💥热播┃秒播💥 |2.2M|480ms",
+      "type": 3,
+      "api": "csp_WexAiReBoGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "tv_pref-007_csp_Czsapp",
-      "name": "🏭厂长·小盒子 |2.2M|229ms",
+      "name": "🏭厂长·小盒子 |2.2M|488ms",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -257,15 +228,6 @@
       "filterable": 0,
       "ext": "https://www.czzy55.com/",
       "jar": "http://xhztv.top/xhz/Yoursmile.jar",
-      "changeable": 1
-    },
-    {
-      "key": "WexAiReBo",
-      "name": "💥热播┃秒播💥 |2.2M|697ms",
-      "type": 3,
-      "api": "csp_WexAiReBoGuard",
-      "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1
     },
     {
@@ -538,7 +500,7 @@
     },
     {
       "key": "WexAiGuaZi",
-      "name": "💥瓜子┃秒播💥 |464K|171ms",
+      "name": "💥瓜子┃秒播💥 |464K|420ms",
       "type": 3,
       "api": "csp_WexAiGuaZiGuard",
       "searchable": 1,
@@ -547,7 +509,7 @@
     },
     {
       "key": "tv_pref-007_csp_Bttwoo",
-      "name": "✌比特·小盒子 |460K|598ms",
+      "name": "✌比特·小盒子 |448K|607ms",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -633,6 +595,44 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "tv_back-023_csp_非凡资源",
+      "name": "🥗┃非凡┃资源·ok线路1 |0",
+      "type": 1,
+      "api": "http://ffzy1.tv/api.php/provide/vod/",
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ],
       "changeable": 1
     },
     {
