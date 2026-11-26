@@ -29,7 +29,7 @@
     },
     {
       "key": "tv_pref-007_csp_Auete",
-      "name": "🐼奥特·小盒子 |27.2M|42ms",
+      "name": "🐼奥特·小盒子 |26.1M|283ms",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -41,7 +41,7 @@
     },
     {
       "key": "tv_back-023_量子资源",
-      "name": "🥑┃量子┃资源·ok线路1 |12.2M|431ms",
+      "name": "🥑┃量子┃资源·ok线路1 |11.9M|526ms",
       "type": 1,
       "api": "https://lzizy1.com/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -68,7 +68,7 @@
     },
     {
       "key": "tv_back-023_火狐",
-      "name": "🦊火狐采集·ok线路1 |6.7M|46ms",
+      "name": "🦊火狐采集·ok线路1 |6.5M|56ms",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -103,7 +103,7 @@
     },
     {
       "key": "tv_back-023_csp_SNzy",
-      "name": "🐉┃索尼┃高清·ok线路1 |6.7M|46ms",
+      "name": "🐉┃索尼┃高清·ok线路1 |6.3M|128ms",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -140,7 +140,7 @@
     },
     {
       "key": "tv_back-023_百度",
-      "name": "🎏百度┃采集·ok线路1 |6.0M|99ms",
+      "name": "🎏百度┃采集·ok线路1 |6.0M|239ms",
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -150,7 +150,7 @@
     },
     {
       "key": "tv_back-026_feifan",
-      "name": "🍀┃非凡┃资源·1号VIP源 |5.6M|631ms",
+      "name": "🍀┃非凡┃资源·1号VIP源 |5.8M|145ms",
       "type": 1,
       "api": "http://ffzy5.tv/api.php/provide/vod",
       "searchable": 1,
@@ -168,8 +168,29 @@
       "changeable": 1
     },
     {
+      "key": "WexAiReBo",
+      "name": "💥热播┃秒播💥 |2.2M|665ms",
+      "type": 3,
+      "api": "csp_WexAiReBoGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "tv_pref-007_csp_Czsapp",
+      "name": "🏭厂长·小盒子 |2.2M|672ms",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.czzy55.com/",
+      "jar": "http://xhztv.top/xhz/Yoursmile.jar",
+      "changeable": 1
+    },
+    {
       "key": "tv_back-023_taopian",
-      "name": "🕹️淘片┃采集·ok线路1 |3.8M|185ms",
+      "name": "🕹️淘片┃采集·ok线路1 |1017K|530ms",
       "type": 1,
       "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
       "searchable": 1,
@@ -207,27 +228,6 @@
         "电影/纪录片"
       ],
       "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "WexAiReBo",
-      "name": "💥热播┃秒播💥 |2.2M|480ms",
-      "type": 3,
-      "api": "csp_WexAiReBoGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "tv_pref-007_csp_Czsapp",
-      "name": "🏭厂长·小盒子 |2.2M|488ms",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.czzy55.com/",
-      "jar": "http://xhztv.top/xhz/Yoursmile.jar",
       "changeable": 1
     },
     {
@@ -500,7 +500,7 @@
     },
     {
       "key": "WexAiGuaZi",
-      "name": "💥瓜子┃秒播💥 |464K|420ms",
+      "name": "💥瓜子┃秒播💥 |464K|380ms",
       "type": 3,
       "api": "csp_WexAiGuaZiGuard",
       "searchable": 1,
@@ -509,7 +509,7 @@
     },
     {
       "key": "tv_pref-007_csp_Bttwoo",
-      "name": "✌比特·小盒子 |448K|607ms",
+      "name": "✌比特·小盒子 |140K|1.8s",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,

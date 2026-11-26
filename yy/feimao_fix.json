@@ -27,7 +27,7 @@
     },
     {
       "key": "csp_Gz360",
-      "name": "🍉┃瓜子┃影视 |1021K|1.6s",
+      "name": "🍉┃瓜子┃影视 |558K|1.5s",
       "type": 3,
       "api": "csp_Gz360",
       "playerType": 2,
@@ -155,7 +155,7 @@
     },
     {
       "key": "csp_Jpys",
-      "name": "🥇️┃金牌┃影视 |198K|2.4s",
+      "name": "🥇️┃金牌┃影视 |125K|6.7s",
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com",
@@ -439,6 +439,10 @@
       },
       "ext": {
         "categories": [
+          {
+            "name": "肥猫本地包",
+            "url": "https://pan.quark.cn/s/3b4132a01b9e"
+          },
           {
             "name": "Fongmi影视",
             "url": "https://pan.quark.cn/s/7129866d8655"
