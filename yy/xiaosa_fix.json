@@ -15,7 +15,7 @@
     },
     {
       "key": "热播影视",
-      "name": "热播 • APP |2.2M|768ms",
+      "name": "热播 • APP |2.2M|210ms",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -384,7 +384,7 @@
     },
     {
       "key": "瓜子影视",
-      "name": "瓜子 • 影视 |464K|488ms",
+      "name": "瓜子 • 影视 |464K|167ms",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -393,7 +393,7 @@
     },
     {
       "key": "旺旺影视",
-      "name": "旺旺 • 影视 |217K|1.7s",
+      "name": "旺旺 • 影视 |286K|985ms",
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200",

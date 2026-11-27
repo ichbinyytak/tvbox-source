@@ -13,19 +13,8 @@
       "changeable": 1
     },
     {
-      "key": "厂长",
-      "name": "📔厂长┃不卡 |2.2M|951ms",
-      "type": 3,
-      "api": "csp_NewCzGuard",
-      "timeout": 10,
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "热播",
-      "name": "📺热播┃多线 |2.2M|1.1s",
+      "name": "📺热播┃多线 |2.2M|856ms",
       "type": 3,
       "api": "csp_AppTTGuard",
       "timeout": 10,
@@ -35,8 +24,19 @@
       "ext": "uqGL1bNENExT7/hGxpSE5qU="
     },
     {
+      "key": "厂长",
+      "name": "📔厂长┃不卡 |2.2M|1.0s",
+      "type": 3,
+      "api": "csp_NewCzGuard",
+      "timeout": 10,
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "奥特",
-      "name": "🏝奥特┃多线 |991K|621ms",
+      "name": "🏝奥特┃多线 |1.7M|1.4s",
       "type": 3,
       "api": "csp_AueteGuard",
       "timeout": 10,
@@ -143,7 +143,7 @@
     },
     {
       "key": "瓜子",
-      "name": "👀瓜子┃不卡 |464K|699ms",
+      "name": "👀瓜子┃不卡 |464K|177ms",
       "type": 3,
       "api": "csp_AppgzGuard",
       "timeout": 15,
@@ -153,7 +153,7 @@
     },
     {
       "key": "比特",
-      "name": "🍄比特┃不卡 |61K|1.9s",
+      "name": "🍄比特┃不卡 |365K|676ms",
       "type": 3,
       "api": "csp_BttwooGuard",
       "timeout": 10,
