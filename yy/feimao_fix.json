@@ -1,5 +1,5 @@
 {
-  "spider": "https://img2.gelonghui.com/library/252d4-9c2ceac7-d615-4058-98ab-fe13818b0ce4.png;md5;‎252d4d890b6e61a4cd29c3b67f4b8a30‎",
+  "spider": "https://img2.gelonghui.com/library/924cd-faaf05eb-baad-4551-8abf-3375ed979e73.png;md5;924cd38add43bca064b3535b0337e421",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "logo": "http://w.junce.dpdns.org/fm.gif",
   "sites": [
@@ -144,8 +144,18 @@
       "changeable": 1
     },
     {
+      "key": "csp_Gz360",
+      "name": "🍉┃瓜子┃影视 |308K|1.9s",
+      "type": 3,
+      "api": "csp_Gz360",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "csp_Jpys",
-      "name": "🥇️┃金牌┃影视 |162K|3.5s",
+      "name": "🥇️┃金牌┃影视 |204K|1.6s",
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com",
@@ -180,16 +190,6 @@
       "api": "csp_SaoHuo",
       "playerType": 2,
       "ext": "https://shdy5.us",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Gz360",
-      "name": "🍉┃瓜子┃影视 |0",
-      "type": 3,
-      "api": "csp_Gz360",
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1

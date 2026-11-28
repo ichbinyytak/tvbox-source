@@ -1,20 +1,10 @@
 {
-  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/1596492e4fd351653dd1eb788606fd1f.jpg;md5;d68f9550bcb16a55f4715c2ec6528c1e",
+  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/b8dd1a2814d9e09181f679d3ef09eb6e.jpg;md5;fa149671d3bfb3a718b98c77f47cef45",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
-      "key": "点我切源",
-      "name": "片单┃ <Fix所有>",
-      "type": 3,
-      "api": "csp_DouDouGuard",
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "热播",
-      "name": "📺热播┃多线 |2.2M|592ms",
+      "name": "📺热播┃多线 |2.2M|552ms",
       "type": 3,
       "api": "csp_AppTTGuard",
       "timeout": 10,
@@ -25,7 +15,7 @@
     },
     {
       "key": "厂长",
-      "name": "📔厂长┃不卡 |2.2M|684ms",
+      "name": "📔厂长┃不卡 |2.2M|834ms",
       "type": 3,
       "api": "csp_NewCzGuard",
       "timeout": 10,
@@ -36,7 +26,7 @@
     },
     {
       "key": "奥特",
-      "name": "🏝奥特┃多线 |1.6M|507ms",
+      "name": "🏝奥特┃多线 |2.1M|326ms",
       "type": 3,
       "api": "csp_AueteGuard",
       "timeout": 10,
@@ -142,8 +132,18 @@
       "changeable": 1
     },
     {
+      "key": "瓜子",
+      "name": "👀瓜子┃不卡 |464K|748ms",
+      "type": 3,
+      "api": "csp_AppgzGuard",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "比特",
-      "name": "🍄比特┃不卡 |331K|809ms",
+      "name": "🍄比特┃不卡 |461K|588ms",
       "type": 3,
       "api": "csp_BttwooGuard",
       "timeout": 10,
@@ -160,16 +160,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "rfOIzPkSUkANv6AT2prC8aD6+WjK3tPozSUvL572CklJZV9L6ysy+LVxZfJR1dM5o3ePLoIPjnos/W4yTqlgUtqU/aeuWHa5fKzelf2sVzGilRkvdFcCpBwt4dB24J1GEdZi4DsMHkz6Ge+zjX/4lHrfVcSOjIFNIHP1TGLmwiCpZd34DfAtn2npr5u6BiYW36CCIID+khfgtA1QQQjazWJBV3hjZT57WbmPs4WoqoDf3MGfd+4AaVzVjPnSLAOD2edXSp3gLgdURjXO5rPlrsRhysXbhlAyQA15/MbFhVwQeGBiKp/Om1PLYiw01LYiplgqx1mxcnCu3SSrfadD2cKgPdJhQi6Ns55eNIeZoiEWrnfgxcAnnhd5nWDZ67WBbRK1YBs1pV05B3ICXao4njVgOB+AbpZJjzs+4PgYLocnQhq0w5RxRFDq1REMpMgSdgE8wYzUtzPO0HcKhCUb01/DQiU9Iy/kZor8+cABH603aMYHOqNXQFJ4R4LFZ8IbYaWLmqhvUm8iQV0ZLHj4NqF+uQnjy89nsQQT2q8FzQG9bod3dmQXCuRaHYCS9ghnVTWCd8TE2CIhY02jyXbE3APr+YN9l/ey1FgdYR7G4c9ZlkHOpEtorwSksB/tkX1+AA=="
-    },
-    {
-      "key": "瓜子",
-      "name": "👀瓜子┃不卡 |0",
-      "type": 3,
-      "api": "csp_AppgzGuard",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "糯米",
@@ -486,6 +476,16 @@
       "type": 3,
       "api": "csp_XPathGuard",
       "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "点我切源",
+      "name": "片单┃ <修复夸父扫码> |盘",
+      "type": 3,
+      "api": "csp_DouDouGuard",
+      "indexs": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
     },
